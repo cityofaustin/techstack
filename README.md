@@ -15,5 +15,6 @@ This includes work related to Digital Services projects:
 
 Our team is experimenting with Zenhub for Agile Project Management. In order to view our Kanban board (aka Trello-style), you need to download the Zenhub extension for your browser.
   - https://www.zenhub.com/extension
+  - [How to Zenhub [Google Slides]](https://docs.google.com/presentation/d/1HUC70Tlf41XKe_ESRJMWcPlpTdpiKeld_lTRNoLC7Y4/edit#slide=id.p)
 
 ![](/img/zenhub_board.png)
