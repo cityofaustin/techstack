@@ -1,11 +1,11 @@
 # TechStack
 
 This repo is used for Project Management & Issue Tracking on the Tech Stack project for the following teams:
-  - [Content](https://github.com/cityofaustin/techstack#boards?labels=team%3A content)
-  - [Design/Research](https://github.com/cityofaustin/techstack#boards?labels=team%3A design)
-  - [Dev](https://github.com/cityofaustin/techstack#boards?labels=team%3A dev)
-  - [Product](https://github.com/cityofaustin/techstack#boards?labels=team%3A product)
-  - [Comms](https://github.com/cityofaustin/techstack#boards?labels=team%3A comms)
+  - [Content](https://github.com/cityofaustin/techstack#boards?labels=team%3A%20content)
+  - [Design/Research](https://github.com/cityofaustin/techstack#boards?labels=team%3A%20design)
+  - [Dev](https://github.com/cityofaustin/techstack#boards?labels=team%3A%20dev)
+  - [Product](https://github.com/cityofaustin/techstack#boards?labels=team%3A%20product)
+  - [Comms](https://github.com/cityofaustin/techstack#boards?labels=team%3A%20comms)
 
 This includes work related to Digital Services projects:
   - [Janis](https://github.com/cityofaustin/janis)
