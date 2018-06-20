@@ -2,7 +2,7 @@
 
 This repo is used for Project Management & Issue Tracking on the Tech Stack project for the following teams:
   - [Content](https://github.com/cityofaustin/techstack#boards?labels=team%3A%20content)
-  - [Design/Research](https://github.com/cityofaustin/techstack#boards?labels=team%3A%20design)
+  - [Design/Research](https://github.com/cityofaustin/techstack#boards?labels=team%3A%20design%2Fresearch&repos=118780243)
   - [Dev](https://github.com/cityofaustin/techstack#boards?labels=team%3A%20dev)
   - [Product](https://github.com/cityofaustin/techstack#boards?labels=team%3A%20product)
   - [Comms](https://github.com/cityofaustin/techstack#boards?labels=team%3A%20comms)
