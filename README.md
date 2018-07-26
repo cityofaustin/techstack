@@ -13,7 +13,7 @@ This includes work related to:
 
 Our team is using Zenhub for agile project management. In order to view our Kanban board (aka Trello-style), you need to download the [Zenhub extension](https://www.zenhub.com/extension) for your browser. See our guide to how we use Zenhub [here](https://docs.google.com/presentation/d/1HUC70Tlf41XKe_ESRJMWcPlpTdpiKeld_lTRNoLC7Y4/edit#slide=id.p). 
 
-![](/img/zenhub_board.png?)
+![](/img/zenhub_board.png)
 
 ## Adding an issue
 (needs work: what we like to see)
