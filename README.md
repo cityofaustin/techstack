@@ -1,8 +1,9 @@
 # Austin.gov 
+The City of Austin's [Office of Design and Delivery](http://odd.austintexas.io/) is in the process of rebuilding the City’s website to improve delivery of our services to Austin residents. The new site, [Austin.gov](http://alpha.austin.gov/), is an evolving platform that will grow, adapt, and improve with user needs.
 
-This repo is used for centralized project management of the Austin.gov project for the following teams:
+This repo is used for centralized project management of the project for the following teams:
   - [Content](https://github.com/cityofaustin/techstack#boards?labels=team%3A%20content)
-  - [Design/Research](https://github.com/cityofaustin/techstack#boards?labels=team%3A%20design%2Fresearch&repos=118780243)
+  - [Design + Research](https://github.com/cityofaustin/techstack#boards?labels=team%3A%20design%2Fresearch&repos=118780243)
   - [Dev](https://github.com/cityofaustin/techstack#boards?labels=team%3A%20dev)
   - [Product](https://github.com/cityofaustin/techstack#boards?labels=team%3A%20product)
 
