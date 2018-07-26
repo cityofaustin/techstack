@@ -20,6 +20,7 @@ Our team is using Zenhub for agile project management. In order to view our Kanb
 (needs work: what we like to see)
 
 ## Grooming
+
 In preparation for every Sprint Planning, the backlog of issues needs to be groomed. Issues that are likely to be pulled into one of the next few sprints should have
   - One and only one _Team_ label - unless it is a meeting
   - At least one _Feature_, _Content Type_, or _Resource_ label
