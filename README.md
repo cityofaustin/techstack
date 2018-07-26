@@ -10,7 +10,6 @@ This includes work related to:
   - [Janis](https://github.com/cityofaustin/janis) - Austin.gov's resident-facing interface for service delivery
   - [Joplin](https://github.com/cityofaustin/joplin) - Austin.gov's staff-facing interface for content creation and maintenance
   - [Animal Services Foster Form Prototype](https://github.com/cityofaustin/prototypeform)
-  - others?
 
 Our team is using Zenhub for agile project management. In order to view our Kanban board (aka Trello-style), you need to download the [Zenhub extension](https://www.zenhub.com/extension) for your browser. See our guide to how we use Zenhub [here](https://docs.google.com/presentation/d/1HUC70Tlf41XKe_ESRJMWcPlpTdpiKeld_lTRNoLC7Y4/edit#slide=id.p). 
 
