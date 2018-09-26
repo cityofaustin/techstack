@@ -1,6 +1,6 @@
 ---
 name: Meeting
-about: Plan a meeting
+about: Let's talk about it
 
 ---
 
