@@ -4,6 +4,8 @@ about: Suggest an idea for this project
 
 ---
 
+###As a [user type] I want [capability] so that [benefit].
+
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
