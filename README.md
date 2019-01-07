@@ -18,13 +18,17 @@ Our team is using Zenhub for agile project management. In order to view our Kanb
 ![](/img/zenhub_board.png)
 
 ## Adding an issue
-(needs work: what we like to see)
+There are several issue templates available to start with:
+ - [Bug report](https://github.com/cityofaustin/techstack/issues/new?template=bug_report.md)
+ - [Feature request](https://github.com/cityofaustin/techstack/issues/new?template=feature_request.md)
+ - [Meeting](https://github.com/cityofaustin/techstack/issues/new?template=meeting.md)
+If none of these suit your needs, [create a regular issue](https://github.com/cityofaustin/techstack/issues/new) and we'll sort it out. 
 
 ## Grooming
 
 In preparation for every Sprint Planning, the backlog of issues needs to be groomed. Issues that are likely to be pulled into one of the next few sprints should have
   - One and only one _Team_ label - unless it is a meeting
-  - At least one _Feature_, _Content Type_, or _Resource_ label
+  - At least one _Feature_ or _Content Type_ label
   - T-shirt size
 
 If completion of an issue is blocked by another issue, add a dependency:
