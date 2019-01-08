@@ -10,8 +10,14 @@ This repo is used for centralized project management of the project for the foll
 This includes work related to:
   - [Janis](https://github.com/cityofaustin/janis) - Austin.gov's resident-facing interface for service delivery
   - [Joplin](https://github.com/cityofaustin/joplin) - Austin.gov's staff-facing interface for content creation and maintenance
-  - [Animal Services Foster Form Prototype](https://github.com/cityofaustin/prototypeform)
-  - [City of Austin's custom US Forms System components](https://github.com/cityofaustin/usfs-components)
+  - [Animal Services Foster Form Prototype](https://github.com/cityofaustin/prototypeform)  - [Forms Service API](https://github.com/cityofaustin/form-service-api) - API to connect the US Forms System to external applications and services
+  - [Forms Service Deploy](https://github.com/cityofaustin/form-service-deploy) -  Tool to deploy forms using shared components 
+  - [Form Large File Upload](https://github.com/cityofaustin/form-service-large-file-upload) - Large file uploader for the Form Service API
+  - [USFS Components](https://github.com/cityofaustin/usfs-components) - Custom components for the US Forms System 
+  - [USFS Schema blocks](https://github.com/cityofaustin/usfs-schema-blocks) - Sets of commonly used questions for the US Forms System
+
+
+  - Office of Police Oversight [Complaint Form](https://github.com/cityofaustin/officer-complaint-form) and [Praise Form]( 
 
 Our team is using Zenhub for agile project management. In order to view our Kanban board (aka Trello-style), you need to download the [Zenhub extension](https://www.zenhub.com/extension) for your browser. See our guide to how we use Zenhub [here](https://docs.google.com/presentation/d/1HUC70Tlf41XKe_ESRJMWcPlpTdpiKeld_lTRNoLC7Y4/edit#slide=id.p). 
 
