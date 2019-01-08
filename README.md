@@ -18,7 +18,7 @@ This includes work related to:
   - [USFS Schema blocks](https://github.com/cityofaustin/usfs-schema-blocks) - Sets of commonly used questions for the US Forms System
 
 
-  - Office of Police Oversight [Complaint Form](https://github.com/cityofaustin/officer-complaint-form) and [Praise Form]( 
+  - Office of Police Oversight[Complaint Form](https://github.com/cityofaustin/officer-complaint-form), [Praise Form](https://github.com/cityofaustin/officer-thank-form), [Form Chapters](https://github.com/cityofaustin/officer-form-chapters)  
 
 Our team is using Zenhub for agile project management. In order to view our Kanban board (aka Trello-style), you need to download the [Zenhub extension](https://www.zenhub.com/extension) for your browser. See our guide to how we use Zenhub [here](https://docs.google.com/presentation/d/1HUC70Tlf41XKe_ESRJMWcPlpTdpiKeld_lTRNoLC7Y4/edit#slide=id.p). 
 
