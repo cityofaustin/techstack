@@ -10,7 +10,8 @@ This repo is used for centralized project management of the project for the foll
 This includes work related to:
   - [Janis](https://github.com/cityofaustin/janis) - Austin.gov's resident-facing interface for service delivery
   - [Joplin](https://github.com/cityofaustin/joplin) - Austin.gov's staff-facing interface for content creation and maintenance
-  - [Animal Services Foster Form Prototype](https://github.com/cityofaustin/prototypeform)  - [Forms Service API](https://github.com/cityofaustin/form-service-api) - API to connect the US Forms System to external applications and services
+  - [Animal Services Foster Form Prototype](https://github.com/cityofaustin/prototypeform)  
+  - [Forms Service API](https://github.com/cityofaustin/form-service-api) - API to connect the US Forms System to external applications and services
   - [Forms Service Deploy](https://github.com/cityofaustin/form-service-deploy) -  Tool to deploy forms using shared components 
   - [Form Large File Upload](https://github.com/cityofaustin/form-service-large-file-upload) - Large file uploader for the Form Service API
   - [USFS Components](https://github.com/cityofaustin/usfs-components) - Custom components for the US Forms System 
