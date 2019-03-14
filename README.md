@@ -33,10 +33,10 @@ If none of these suit your needs, [create a regular issue](https://github.com/ci
 ## Grooming
 
 In preparation for every Sprint Planning, the backlog of issues needs to be groomed. Issues that are likely to be pulled into one of the next few sprints should have
-  - One _Team_ label - there should be separate issues assigned to each team that speak specifically to the work they will do, e. .g unless it is a meeting
+  - **One _Team_ label** - there should be separate issues assigned to each team that speak specifically to the work they will do, e. .g unless it is a meeting
   - **At least one [_Feature_](https://github.com/cityofaustin/techstack/labels?utf8=%E2%9C%93&q=Feature%3A) or [_Content Type_](https://github.com/cityofaustin/techstack/labels?utf8=%E2%9C%93&q=Content+Type%3A+) label** - unless it is _Site Content_ (content to be transitioned onto Austin.gov) or _Project Communication_ (Medium posts, conference presentations, etc.)
-  - **One [👕size](https://github.com/cityofaustin/techstack/labels?utf8=%E2%9C%93&q=size%3A) label** - relative estimation of effort 
-  - **Estimate** - in order to calculate [velocity](https://github.com/cityofaustin/techstack#workspaces/office-of-design-and-delivery-5a78b88e1ce69f3510b678ef/reports/velocity) (translates directly from t-shirt size; XS --->1, S--->2, M--->3, L--->5, XL --->8) 
+  - **One [_Size_](https://github.com/cityofaustin/techstack/labels?utf8=%E2%9C%93&q=size%3A) label** - relative estimation of effort 
+  - **Estimate** - in order to calculate [velocity](https://github.com/cityofaustin/techstack#workspaces/office-of-design-and-delivery-5a78b88e1ce69f3510b678ef/reports/velocity); estimates translate directly from t-shirt size: XS=1, S=2, M=3, L=5, XL=8 
 
 If completion of an issue is blocked by another issue, add a dependency:
 
