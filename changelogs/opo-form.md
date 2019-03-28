@@ -1,4 +1,4 @@
-## OPO Media Push [2.0] - 2019-04-25
+## OPO Media Push [2.0] - 2019-03-25
 ### Added 
 - New Date Picker. It’s more human-readable and screenreader accessible.
 - Warning modal that pops up when you switch languages. This prevents users from accidentally deleting all of their form data.
