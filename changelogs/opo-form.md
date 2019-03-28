@@ -12,3 +12,4 @@
 - Phone numbers are now links that mobile users can call.
 - Various minor styling and copy improvements.
 - Various UI/functionality bugs, including translation/localization issues
+- Some minor pageload performances
