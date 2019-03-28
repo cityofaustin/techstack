@@ -43,3 +43,8 @@ If completion of an issue is blocked by another issue, add a dependency:
 ![](/img/dependency.png)
 
 If the blocking issue isn't in Github yet, create it and make sure to add the appropriate _Team_ label and then add the dependency. 
+
+## Logging notable changes
+We're going to adopt changelogs for projects that have passed major releases, in order to help track notable changes for clients and other interested parties. 
+Roughly following this format: https://keepachangelog.com/en/0.3.0/
+Checkout the changelogs folder for more!
