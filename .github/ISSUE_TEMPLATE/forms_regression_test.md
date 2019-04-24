@@ -1,3 +1,12 @@
+---
+name: Forms Regression Test
+about: Use this template to set up a regression test for a Form
+
+---
+
+**Describe the bug**
+<!--- here we list out the expected functionality as a checklist --->
+
 Here are them features to test:
 - [ ] /introduction
   - [ ] Do the accordion buttons work?
@@ -46,14 +55,13 @@ Here are them features to test:
 - [ ] Spanish Form Considerations
   - [ ] Is it in Spanish? (Did all of our text translations work?)
 
+
+
 Sprint-specific considerations to kinda watch out for:
-- [ ] https://github.com/cityofaustin/techstack/issues/1644
-  - Covered by regression testing. Basically make sure the map on /where-happened works when you enter an address.
+<!--- list related issues here, add checkboxes as needed --->
+- [ ] <!--- link to related issue --->
+  - <!-- description to test -->
+<!--- eg. 
 - [ ] https://github.com/cityofaustin/techstack/issues/1743
   - Covered by regression testing. Basically make sure the file uploader on /share-evidence works.
-- [ ] https://github.com/cityofaustin/techstack/issues/1086
-  - Covered by regression testing. Basically make sure the datepicker on /what-happened works.
-- [ ] https://github.com/cityofaustin/techstack/issues/1591
-  - Covered by regression testing. Basically make sure the calender icon selector thing still works on /what-happened.
-- [ ] https://github.com/cityofaustin/techstack/issues/1579
-  - Covered by regression testing. Basically make sure that location is still required on /where-happened even if you clear out your location.
+--->
