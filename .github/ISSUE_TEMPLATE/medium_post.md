@@ -1,6 +1,7 @@
 ---
 name: Medium Post Writing process and checklist 
-about: Use this template when composing a Medium post Reference https://docs.google.com/document/d/1KMFASGEiuEkWKdo4jeOmHZOfc02LKVsPiapxvD3IpkU/edit#heading=h.5zkr43xy0rg3
+about: Use this template when composing a Medium post 
+Reference https://docs.google.com/document/d/1KMFASGEiuEkWKdo4jeOmHZOfc02LKVsPiapxvD3IpkU/edit#heading=h.5zkr43xy0rg3
 ---
 **To-dos before publishing**
 <!--- here we list the steps to take before publishing a post under @Civiqueso on Medium.com --->
@@ -41,5 +42,5 @@ Screen-width images 2500 px
 - [ ] Click, then scroll down to “New story.”
 - [ ] Copy and paste your final draft. 
 - [ ] Click “Ready to publish?” 
-<br>**Disable "paywall" content button**<br>
+- [ ] <br>**Disable "paywall" content button**<br>
 <br>**Congrats! Your writing is out in the world**<br>
