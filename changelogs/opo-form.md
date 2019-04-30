@@ -27,7 +27,8 @@ Most relevant repos <!-- keep this up to date if it changes!! -->:
 - Form data for location is cleared when a user clears the result on the Select Location widget
 - Fixed mobile zooming when user taps on calender icon
 - Fixed various minor translation issues
-- Minor styling issues (e.g. modal box cutt off on some mobile browsers)
+- Minor styling issues (e.g. modal box cut off on some mobile browsers)
+- Error messages now show up properly on Spanish versions of the form
 
 
 ## OPO Media Push [2.0] - 2019-03-25
