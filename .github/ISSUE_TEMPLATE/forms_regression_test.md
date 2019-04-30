@@ -3,8 +3,17 @@ name: Forms Regression Test
 about: Use this template to set up a regression test for a Form
 
 ---
+The plan in a nutshell. We need to test:
+- all supported/important devices+browsers
+- all 4 forms (complaint, thanks, queja, agradezca)
+- all features in each form
 
-**Describe the bug**
+Everyone gets assigned a browser/device issue. They go through all 4 forms for that device. If there are struggles, make issues with a "Bug" label and priority. P1 is highest, P5 is lowest. P3 and above are showstoppers and should be fixed before a switch to production- but only if they're unique to this new codebase (i.e. not something that was a problem with the old form also). Also, everything is negotiable.
+
+Couple suggestions:
+- There's a lot of checkboxes. They're annoying to click in github. Only check them if there was an issue, otherwise you can leave them be. Or maybe we can take out the checkbox formatting, w/e.
+- On the "received ticket" part of /what-happened, enter the name of your device+Browser as the name of ticket. That way we can trace the email response back to you if there was a problem.
+
 <!--- here we list out the expected functionality as a checklist --->
 
 Here are them features to test:
