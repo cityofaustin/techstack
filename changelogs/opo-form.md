@@ -9,7 +9,7 @@ Most relevant repos <!-- keep this up to date if it changes!! -->:
 - [cityofaustin/us-forms-system](https://github.com/cityofaustin/us-forms-system)
 - [form-service-api](https://github.com/cityofaustin/form-service-api)
 
-## 2.1.0 - 2019-4-19
+## 2.1.0 - 2019-4-30
 ### Added
 - [coa-forms](https://github.com/cityofaustin/coa-forms): a new, consolidated repo application that uses our fork of us-forms-system
 - Now we can make builds for individual branches instead of just production or master
