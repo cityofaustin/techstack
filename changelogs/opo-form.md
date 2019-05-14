@@ -9,7 +9,16 @@ Most relevant repos <!-- keep this up to date if it changes!! -->:
 - [cityofaustin/us-forms-system](https://github.com/cityofaustin/us-forms-system)
 - [form-service-api](https://github.com/cityofaustin/form-service-api)
 
+
 ## 2.1.1 - 2019-5-14
+### Fixed
+- Map Component Location clearing breaks on Windows/IE 11
+- Missing Spanish translations in several places
+- Location is required on the thank-you form but this was not mentioned on the intro page
+- Missing fields in the confirmation email
+- Inconsistent wording in several places
+-
+
 
 ## 2.1.0 - 2019-4-30
 ### Added
