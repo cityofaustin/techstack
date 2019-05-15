@@ -16,8 +16,8 @@ Most relevant repos <!-- keep this up to date if it changes!! -->:
 - Missing Spanish translations in several places
 - Location is required on the thank-you form but this was not mentioned on the intro page
 - Missing fields in the confirmation email
-- Inconsistent wording in several places
--
+- Copy edit fixes needed for inconsistent wording in several places
+- Multiple edit buttons on the review page can cause to mistaken deletions to officer and witness information
 
 
 ## 2.1.0 - 2019-4-30
