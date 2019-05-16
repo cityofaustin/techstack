@@ -13,11 +13,11 @@ Most relevant repos <!-- keep this up to date if it changes!! -->:
 ## 2.1.1 - 2019-5-14
 ### Fixed
 - Map Component Location clearing breaks on Windows/IE 11
-- Missing Spanish translations in several places
+- Missing Spanish translations for form validations have been added
 - Location is required on the thank-you form but this was not mentioned on the intro page
-- Missing fields in the confirmation email
-- Copy edit fixes needed for inconsistent wording in several places
-- Multiple edit buttons on the review page can cause to mistaken deletions to officer and witness information
+- Missing or inconsistent fields in the confirmation email have been corrected
+- Fixed inconsistent wording in several places
+- Steamlined review page edit functionality for officer and witness information
 
 
 ## 2.1.0 - 2019-4-30
