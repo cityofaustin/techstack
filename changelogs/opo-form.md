@@ -9,6 +9,17 @@ Most relevant repos <!-- keep this up to date if it changes!! -->:
 - [cityofaustin/us-forms-system](https://github.com/cityofaustin/us-forms-system)
 - [form-service-api](https://github.com/cityofaustin/form-service-api)
 
+
+## 2.1.1 - 2019-5-14
+### Fixed
+- Map Component Location clearing breaks on Windows/IE 11
+- Missing Spanish translations for form validations have been added
+- Location is required on the thank-you form but this was not mentioned on the intro page
+- Missing or inconsistent fields in the confirmation email have been corrected
+- Fixed inconsistent wording in several places
+- Steamlined review page edit functionality for officer and witness information
+
+
 ## 2.1.0 - 2019-4-30
 ### Added
 - [coa-forms](https://github.com/cityofaustin/coa-forms): a new, consolidated repo application that uses our fork of us-forms-system
