@@ -10,6 +10,12 @@ Most relevant repos <!-- keep this up to date if it changes!! -->:
 - [form-service-api](https://github.com/cityofaustin/form-service-api)
 
 
+## 2.1.2 - 2019-5-20
+### Changed
+- Complaint Intro page: Added an additional sentence which links to the investigation process
+- Complaint Confirmation page: Made "the process" a link to the investigation process. Removed the progress bar.
+
+
 ## 2.1.1 - 2019-5-14
 ### Fixed
 - Map Component Location clearing breaks on Windows/IE 11
