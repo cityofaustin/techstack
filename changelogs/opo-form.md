@@ -9,6 +9,9 @@ Most relevant repos <!-- keep this up to date if it changes!! -->:
 - [cityofaustin/us-forms-system](https://github.com/cityofaustin/us-forms-system)
 - [form-service-api](https://github.com/cityofaustin/form-service-api)
 
+## 2.1.2 - 2019-05-20
+### Added
+ - Issue [1601](https://github.com/cityofaustin/techstack/issues/1601): fixed styling around "What Happens Next"
 
 ## 2.1.1 - 2019-5-14
 ### Fixed
