@@ -1,6 +1,6 @@
 ---
 name: Content debt documentation 
-about: Use this template documenting content debt
+about: Use this template when documenting content debt
 
 ---
 **What type of content debt is it? Check if content debt is lack of:** 
