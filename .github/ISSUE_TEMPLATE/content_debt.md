@@ -13,8 +13,7 @@ about: Use this template when documenting content debt
 - [ ] Availability (ex. Pdf doesn’t equal accessibility)
 - [ ] Accessibility
 - [ ] Containment (presented as data set rather than a paragraph)
-- [ ] Usability (How do users rate content on clarity? Does it help get users ahead or confuse them? 
-- [ ] Does content create more work for users and annoy them?) 
+- [ ] Usability (How do users rate content on clarity? Does it help get users ahead or confuse them? Does content create more work for users and annoy them?) 
 
 *What is the URL?*
 
