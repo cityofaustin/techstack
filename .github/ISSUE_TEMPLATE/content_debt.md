@@ -1,10 +1,12 @@
 ---
-name: Content debt documentation 
-about: Use this template when documenting content debt
+name: Content debt 
+about: Use this template when you've published content on Joplin that should be changed or improved in the future when we have new functionality/feature available.
 
 ---
+Make sure to add the label "Content debt." If available, add the appropriate "Content type" or "Feature" label.
+
 **What type of content debt is it? Check if content debt is lack of:** 
-<!--- here we describe the content debt --->
+- [ ] Missing feature
 - [ ] Documentation
 - [ ] Consistency/adherence to the style guide
 - [ ] Clarity of ownership
@@ -15,14 +17,20 @@ about: Use this template when documenting content debt
 - [ ] Containment (presented as data set rather than a paragraph)
 - [ ] Usability (How do users rate content on clarity? Does it help get users ahead or confuse them? Does content create more work for users and annoy them?) 
 
-*What is the URL?*
+**What is the URL?**
 
-*Describe the content debt. (What do we need to remember to do in the future?)*
+**Have you documented this via the author notes field in Joplin?**
+- [ ] Yes!
+- [ ] No, but I'll do it now
 
-*What is the long-term, ideal solution for the content debt?*
+**Describe the content debt.**
+<!---(What do we need to remember to do in the future?)--->
 
-*Is this related to a feature request issue? (Add the number below and add the issue as a dependency.)*
+**What is the long-term, ideal solution for this content debt?**
 
-*What approvals will be needed to publish this content change?*
+**Is this related to a feature request issue? (Add the issue number below and add the issue as a dependency.)**
 
-*Have a notes field in Joplin per page, and on that page, write in the Github issues number.*
+**What approvals will be needed to publish this content change?**
+<!--- Add the program or contact we need to be in touch with when this gets updated in the future. --->
+
+
