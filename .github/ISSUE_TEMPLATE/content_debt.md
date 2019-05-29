@@ -3,7 +3,7 @@ name: Content debt
 about: Use this template when you've published content on Joplin that should be changed or improved in the future when we have new functionality/feature available.
 
 ---
-Make sure to add the label "Content debt." If available, add the appropriate "Content type" or "Feature" label.
+*Make sure to add the label "Content debt." If available, add the appropriate "Content type" or "Feature" label.*
 
 **What type of content debt is it? Check if content debt is lack of:** 
 - [ ] Missing feature
