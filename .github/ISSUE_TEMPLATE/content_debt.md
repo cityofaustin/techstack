@@ -5,18 +5,6 @@ about: Use this template when you've published content on Joplin that should be 
 ---
 *Make sure to add the label "Content debt." If available, add the appropriate "Content type" or "Feature" label.*
 
-**What type of content debt is it? Check if content debt is lack of:** 
-- [ ] Missing feature
-- [ ] Documentation
-- [ ] Consistency/adherence to the style guide
-- [ ] Clarity of ownership
-- [ ] Findability
-- [ ] Maintenance schedule (when does content get updated and by whom?)
-- [ ] Availability (ex. Pdf doesn’t equal accessibility)
-- [ ] Accessibility
-- [ ] Containment (presented as data set rather than a paragraph)
-- [ ] Usability (How do users rate content on clarity? Does it help get users ahead or confuse them? Does content create more work for users and annoy them?) 
-
 **What is the URL?**
 
 **Have you documented this via the author notes field in Joplin?**
