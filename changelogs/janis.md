@@ -9,14 +9,9 @@ Most relevant repos <!-- keep this up to date if it changes!! -->:
 
 ## 2.0 - 2019-5-28
 ### Added
-- Merge OPO microsite version to Janis 2.0 
-- Navigation: Topic Collection Page > Topic Page > Services
-- Mega menu
+- Merge OPO microsite version to alpha.austin.gov 
+
 ### Changed
-
+- Mega menu which includes all themes
+- New Navigation: Topic Collection Page > Topic Page > Services
 - Globally enhanced visual design
-
-### Deprecated
-- 
-### Fixed
-- 
