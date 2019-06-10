@@ -9,6 +9,11 @@ Most relevant repos <!-- keep this up to date if it changes!! -->:
 - [cityofaustin/us-forms-system](https://github.com/cityofaustin/us-forms-system)
 - [form-service-api](https://github.com/cityofaustin/form-service-api)
 
+## 2.1.3 - 2019-06-10
+### Added
+ - Issue [2184](https://github.com/cityofaustin/techstack/issues/2184): use official translations for error validations
+ - Issue [1926](https://github.com/cityofaustin/techstack/issues/1926): make "location" optional for thank you form
+
 ## 2.1.2 - 2019-05-20
 ### Added
  - Issue [1601](https://github.com/cityofaustin/techstack/issues/1601): fixed styling around "What Happens Next"
