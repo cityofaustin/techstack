@@ -9,6 +9,13 @@ Most relevant repos <!-- keep this up to date if it changes!! -->:
 - [cityofaustin/us-forms-system](https://github.com/cityofaustin/us-forms-system)
 - [form-service-api](https://github.com/cityofaustin/form-service-api)
 
+## 2.2.0 - 2019-07-22
+### Added
+ - Issue [2309](https://github.com/cityofaustin/techstack/issues/2309): major overhaul of the form-service-api
+   - adds ability to send DEBUG form submissions
+   - adds ability to create additional forms
+ - Issue [2498](https://github.com/cityofaustin/techstack/issues/2498): added code for day-labor form
+
 ## 2.1.3 - 2019-06-10
 ### Added
  - Issue [2184](https://github.com/cityofaustin/techstack/issues/2184): use official translations for error validations
