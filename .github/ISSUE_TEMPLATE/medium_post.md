@@ -35,7 +35,7 @@ Screen-width images 2500 px
 - [ ] Select image in google doc
 - [ ] Right click (On Mac - Control button + click). Select “Alt Text…”
 - [ ] Author alt text
-**Add Alt-text to images in Medium.com
+<br>**Add Alt-text to images in Medium.com**<br>
 - [ ] Click edit story. Select an image in your story and choose alt text.
 <br>**Publish**<br>
 - [ ] Create an account on Medium.com.
