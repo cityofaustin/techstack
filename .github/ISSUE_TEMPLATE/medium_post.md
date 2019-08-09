@@ -31,10 +31,12 @@ Full column-width images: 1400 px
 Out-set images: 2040 px
 Screen-width images 2500 px
 - [ ] Include one to two sentence caption that’s short, snappy and descriptive. 
-<br>**Accessibility: Add Alt-Text to images in Google doc (waiting for funtionality on Medium.com)**<br>
+<br>**Accessibility: Add Alt-Text to images in Google doc**<br>
 - [ ] Select image in google doc
 - [ ] Right click (On Mac - Control button + click). Select “Alt Text…”
 - [ ] Author alt text
+**Add Alt-text to images in Medium.com
+- [ ] Click edit story. Select an image in your story and choose alt text.
 <br>**Publish**<br>
 - [ ] Create an account on Medium.com.
 - [ ] Hover the cursor over your profile photo or initial on (far upper right of screen). 
