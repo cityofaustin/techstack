@@ -1,9 +1,10 @@
 ---
 name: Medium Post Writing process and checklist 
-about: Use this template when composing a Medium post. Reference: https://docs.google.com/document/d/1KMFASGEiuEkWKdo4jeOmHZOfc02LKVsPiapxvD3IpkU/edit#heading=h.5zkr43xy0rg3
+about: Use this template when composing a Medium post.
 ---
 **To-dos before publishing**
 <!--- here we list the steps to take before publishing a post under @Civiqueso on Medium.com --->
+So, you wanna publish a Medium post? <Reference: https://docs.google.com/document/d/1KMFASGEiuEkWKdo4jeOmHZOfc02LKVsPiapxvD3IpkU/edit#heading=h.5zkr43xy0rg3>
 <br>**Substance**<br>
 Show what we did and how we did it:
 - [ ] Lessons learned
