@@ -9,6 +9,10 @@ Most relevant repos <!-- keep this up to date if it changes!! -->:
 - [cityofaustin/us-forms-system](https://github.com/cityofaustin/us-forms-system)
 - [form-service-api](https://github.com/cityofaustin/form-service-api)
 
+## 2.1.4 - 2019-09-04
+### Added
+ - Deploy "Request Day Laborer" form to Production, in English and Spanish
+
 ## 2.1.3 - 2019-06-10
 ### Added
  - Issue [2184](https://github.com/cityofaustin/techstack/issues/2184): use official translations for error validations
