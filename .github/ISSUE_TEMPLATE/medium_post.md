@@ -1,6 +1,6 @@
 ---
 name: Medium Post Writing process and checklist 
-about: Use this template when composing a Medium post.
+about: For composing a Medium post
 ---
 **To-dos before publishing**
 <!--- here we list the steps to take before publishing a post under @Civiqueso on Medium.com --->
