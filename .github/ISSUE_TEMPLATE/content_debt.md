@@ -1,6 +1,6 @@
 ---
 name: Content debt 
-about: Use this template when you've published content on Joplin that should be changed or improved in the future when we have new functionality/feature available.
+about: For publishing content on Joplin that should be changed or improved in the future when we have new functionality available
 
 ---
 *Make sure to add the label "Content debt." If available, add the appropriate "Content type" or "Feature" label.*
