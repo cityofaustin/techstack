@@ -21,6 +21,7 @@ about: Places to post new job listings when we're hiring
 - [ ] Ladies Get Paid
 - [ ] Lesbians Who Tech
 - [ ] Open Austin
+- [ ] Product in Austin slack
 - [ ] PyLadies
 - [ ] Tech Lady Mafia
 - [ ] Women in Tech
