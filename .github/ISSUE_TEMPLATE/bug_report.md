@@ -4,12 +4,12 @@ about: Create a report to help us improve
 
 ---
 
-# Describe the bug
+## Describe the bug
 <!--- A clear and concise description of what the bug is --->
 
-# URL
+## URL
 
-# To Reproduce
+## To Reproduce
 <!--- Steps to reproduce the behavior 
 example: 
 1. Go to '...'
@@ -18,29 +18,18 @@ example:
 4. See error
 --->
 
-# Additional context
-<!--- How has this issue affected you? What are you trying to accomplish? -->
-<!--- Providing context helps us come up with a solution that is most useful in the real world -->
-
-<!--- Provide a general summary of the issue in the Title above -->
-<!--- Add any other context about the problem here. Does this prevent a user from completing a task? If so, what task? --->
-
-<!--- Feel free to use the below sections, just remove the comment indicators (`<!---` and `--->`) --->
-
-<!---## Current behavior--->
+## Current behavior
 <!--- A clear and concise description of what happened --->
 
-
-<!---## Expected behavior--->
+## Expected behavior
 <!--- A clear and concise description of what you expected to happen --->
 
-<!---### Screenshots--->
+## Screenshots
 <!--- If applicable, add screenshots or a gif to help explain your problem --->
 
-<!---### Device--->
-<!--- Desktop/laptop, tablet, or phone? --->
+## Device and browser
+<!--- https://www.whatismybrowser.com/ --->
 
-<!---### Browser--->
-
-
+## Additional context
+<!--- How has this issue affected you? What are you trying to accomplish? Does this prevent a user from completing a task? If so, what task? Providing context helps us come up with a solution that is most useful in the real world. -->
 
