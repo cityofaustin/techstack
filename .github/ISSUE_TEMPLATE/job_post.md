@@ -8,21 +8,21 @@ about: Places to post new job listings when we're hiring
 
 
 **Where to post**
-- [ ] Austin Digital Jobs fb group
-- [ ] Lesbians Who Tech
-- [ ] Built in Austin
-- [ ] Data for Democracy
-- [ ] Women in Tech
-- [ ] Ladies Get Paid
-- [ ] HexagonUX Houston
-- [ ] Open Austin
-- [ ] Civic Union
-- [ ] Tech Lady Mafia
-- [ ] Austin UXPA
 - [ ] Austin Content meetup
-- [ ] Women Who Code Austin
-- [ ] PyLadies
-- [ ] Coding Club
+- [ ] Austin Digital Jobs fb group
 - [ ] Austin Hispanic Hackers meetup
+- [ ] Austin UXPA
+- [ ] Built in Austin
+- [ ] Civic Union
+- [ ] Coding Club
+- [ ] Data for Democracy
 - [ ] Feminist Hack ATX
+- [ ] HexagonUX Houston
+- [ ] Ladies Get Paid
+- [ ] Lesbians Who Tech
+- [ ] Open Austin
+- [ ] PyLadies
+- [ ] Tech Lady Mafia
+- [ ] Women in Tech
+- [ ] Women Who Code Austin
 - [ ] various agile meetup groups
