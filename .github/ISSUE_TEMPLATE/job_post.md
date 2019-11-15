@@ -8,6 +8,7 @@ about: Places to post new job listings when we're hiring
 
 
 **Where to post**
+- [ ] Austin Accessibility and Inclusive Design meetup
 - [ ] Austin Content meetup
 - [ ] Austin Digital Jobs fb group
 - [ ] Austin Hispanic Hackers meetup
