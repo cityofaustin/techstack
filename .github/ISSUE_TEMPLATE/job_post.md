@@ -23,6 +23,7 @@ about: Places to post new job listings when we're hiring
 - [ ] Lesbians Who Tech
 - [ ] Open Austin
 - [ ] Product in Austin slack
+- [ ] Product League meetup
 - [ ] PyLadies
 - [ ] Tech Lady Mafia
 - [ ] Women in Tech
