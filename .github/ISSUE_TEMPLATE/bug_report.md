@@ -5,24 +5,24 @@ about: Create a report to help us improve
 ---
 
 ## Describe the bug
-<!--- A clear and concise description of what the bug is --->
+A clear and concise description of what the bug is
 
 ## URL
 
 ## To Reproduce
-<!--- Steps to reproduce the behavior 
+Steps to reproduce the behavior 
 example: 
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
---->
+
 
 ## Current behavior
-<!--- A clear and concise description of what happened --->
+A clear and concise description of what happened
 
 ## Expected behavior
-<!--- A clear and concise description of what you expected to happen --->
+A clear and concise description of what you expected to happen
 
 ## Screenshots
 <!--- If applicable, add screenshots or a gif to help explain your problem --->
