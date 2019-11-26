@@ -18,7 +18,3 @@ Visual design
 - [ ] Translations: is there anything hardcoded in Janis that needs to be translated to Spanish? What else do we need to consider?
 - [ ] Previews: Will this content type or feature set require previews in Janis? 
 - [ ] Unit tests: Will we need to write any unit tests for this content type or feature set?
-
-- [ ] Translations: is there anything hardcoded in Janis that needs to be translated to Spanish? What else do we need to consider?
-- [ ] Previews: Will this content type or feature set require previews in Janis? 
-- [ ] Unit tests: Will we need to write any unit tests for this content type or feature set?
