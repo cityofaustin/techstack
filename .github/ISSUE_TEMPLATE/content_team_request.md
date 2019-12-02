@@ -14,6 +14,7 @@ labels: "Team: Content"
 **Is the project resident-facing?
 - [ ] Yes
 - [ ] No
+
 **If the project isn't resident-facing, who is the end audience?**
 
 **What is the medium for this content?**
