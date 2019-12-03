@@ -9,9 +9,9 @@ labels: "Team: Content"
 
 **What is the project that this work time will be charged to?**
 
-**Have you already consulted the [ODD Style Guide](https://cityofaustin.gitbook.io/digital-style-guide/) before submitting this request?
+**Have you already consulted the [ODD Style Guide](https://cityofaustin.gitbook.io/digital-style-guide/) before submitting this request?**
 
-**Is the project resident-facing?
+**Is the project resident-facing?**
 - [ ] Yes
 - [ ] No
 
