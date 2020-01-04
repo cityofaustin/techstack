@@ -1,17 +1,33 @@
-# Changelog
+# Janis Changelog
 All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-Most relevant repos <!-- keep this up to date if it changes!! -->: 
+Most relevant repos <!-- keep this up to date if it changes!! -->:
 - [https://github.com/cityofaustin/janis](https://github.com/cityofaustin/techstack)
 
-## 2.0 - 2019-5-28
-### Added
-- Merge OPO microsite version to alpha.austin.gov 
+## v2.1.0
+|||
+|-|-|
+| **Date** | 01/03/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/656 |
+| **Latest Commit Hash** | 23bd37a25ca5532ade9ca066c97ea100733e40f7  |
+| **Oldest Compatible Joplin** | 2.1.0  |
+| **Stable?**  | y |
 
-### Changed
+Issues:
+- https://app.zenhub.com/workspaces/techstack-5a78b88e1ce69f3510b678ef/issues/cityofaustin/techstack/3586
+
+## v2.0.0
+|||
+|-|-|
+| **Date** | 05/28/2019   |
+
+Added:
+- Merge OPO microsite version to alpha.austin.gov
+
+Changed:
 - Mega menu which includes all themes
 - New Navigation: Topic Collection Page > Topic Page > Services
 - Globally enhanced visual design
