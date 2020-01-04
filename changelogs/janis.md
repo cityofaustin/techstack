@@ -19,6 +19,15 @@ Most relevant repos <!-- keep this up to date if it changes!! -->:
 Issues:
 - https://app.zenhub.com/workspaces/techstack-5a78b88e1ce69f3510b678ef/issues/cityofaustin/techstack/3586
 
+## v2.0.99
+|||
+|-|-|
+| **Date** | 10/29/2019   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/584 |
+| **Latest Commit Hash** | e4f4869ce0c3fa876959f1de97091e269f0367a8  |
+| **Oldest Compatible Joplin** | 2.0.99 |
+| **Stable?**  | y |
+
 ## v2.0.0
 |||
 |-|-|

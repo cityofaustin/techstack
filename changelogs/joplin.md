@@ -20,3 +20,12 @@ Issues:
 - https://github.com/cityofaustin/techstack/issues/3537
 - https://github.com/cityofaustin/techstack/issues/3622
 - https://github.com/cityofaustin/techstack/issues/2780
+
+## v2.0.99
+|||
+|-|-|
+| **Date** | 09/15/2019   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/458 |
+| **Latest Commit Hash** | c30ae0c1748a16a7bbada078d81d206a66d93090  |
+| **Oldest Compatible Janis** | 2.0.99 |
+| **Stable?**  | y |
