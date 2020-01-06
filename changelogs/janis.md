@@ -2,7 +2,7 @@
 All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html). Make sure to include links to Issues for new features.
 
 Most relevant repos <!-- keep this up to date if it changes!! -->:
 - [https://github.com/cityofaustin/janis](https://github.com/cityofaustin/techstack)
@@ -16,8 +16,8 @@ Most relevant repos <!-- keep this up to date if it changes!! -->:
 | **Oldest Compatible Joplin** | 2.1.0  |
 | **Stable?**  | y |
 
-Issues:
-- https://app.zenhub.com/workspaces/techstack-5a78b88e1ce69f3510b678ef/issues/cityofaustin/techstack/3586
+Added:
+- Center pagination component [3586](https://app.zenhub.com/workspaces/techstack-5a78b88e1ce69f3510b678ef/issues/cityofaustin/techstack/3586)
 
 ## v2.0.99
 |||
@@ -27,6 +27,9 @@ Issues:
 | **Latest Commit Hash** | e4f4869ce0c3fa876959f1de97091e269f0367a8  |
 | **Oldest Compatible Joplin** | 2.0.99 |
 | **Stable?**  | y |
+
+Added:
+- New SiteStructure graphql queries
 
 ## v2.0.0
 |||

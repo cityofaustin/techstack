@@ -16,10 +16,10 @@ Most relevant repos <!-- keep this up to date if it changes!! -->:
 | **Oldest Compatible Janis** | 2.1.0  |
 | **Stable?**  | y |
 
-Issues:
-- https://github.com/cityofaustin/techstack/issues/3537
-- https://github.com/cityofaustin/techstack/issues/3622
-- https://github.com/cityofaustin/techstack/issues/2780
+Added:
+- Inserting documents in rich text fields. [3537](https://github.com/cityofaustin/techstack/issues/3537)
+- Fixes "location name" bug [3622](https://github.com/cityofaustin/techstack/issues/3622)
+- Automated solution for cleaning up Heroku instances [2780](https://github.com/cityofaustin/techstack/issues/2780)
 
 ## v2.0.99
 |||
@@ -29,3 +29,7 @@ Issues:
 | **Latest Commit Hash** | c30ae0c1748a16a7bbada078d81d206a66d93090  |
 | **Oldest Compatible Janis** | 2.0.99 |
 | **Stable?**  | y |
+
+Added:
+- New SiteStructure graphql queries
+- takes a very long time to make queries
