@@ -1,5 +1,18 @@
 # Janis Changelog
 
+
+## v2.2.1
+|||
+|-|-|
+| **Date** | 01/09/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/665 |
+| **Latest Commit Hash** | 5d9c0a65f0d0067c461d4a4fca836d859abc36ca |
+| **Stable?**  | y |
+
+Fixes:
+- Broken builds when missing phone data on location page related service page contact
+- Days showing in service page contact card when they shouldn't
+
 ## v2.2.0
 |||
 |-|-|
