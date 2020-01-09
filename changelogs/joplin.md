@@ -1,5 +1,18 @@
 # Joplin Changelog
 
+## v2.1.2
+|||
+|-|-|
+| **Date** | 01/08/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/520 |
+| **Latest Commit Hash** | d13be2d80e80d674eae409b3e4ddf0cd0497928e  |
+| **Stable?**  | y |
+
+Added:
+- Upgrade to Wagtail 2.7
+- Replace Joplin microcopy for content types
+- Limit "Make top-level link" to service and info pages
+
 ## v2.1.1
 |||
 |-|-|
