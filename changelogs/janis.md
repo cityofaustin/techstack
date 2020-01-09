@@ -8,6 +8,10 @@
 | **Latest Commit Hash** | d02a6956808fecc8dbcef2abbf0f69ee074d0558  |
 | **Stable?**  | y |
 
+Fixed:
+- pages in draft status no longer show up as links on topic pages
+- adjusted header padding
+
 ## v2.1.0
 |||
 |-|-|
