@@ -1,5 +1,17 @@
 # Janis Changelog
 
+## v2.2.0
+|||
+|-|-|
+| **Date** | 01/09/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/663 |
+| **Latest Commit Hash** | 6185b27a3487e80a7d4dd9db6d0a465454e37a87  |
+| **Stable?**  | y |
+
+Added:
+- Update service page steps to support locations
+- Update contact card to support location page data
+
 ## v2.1.1
 |||
 |-|-|
