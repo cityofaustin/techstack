@@ -1,5 +1,16 @@
 # Joplin Changelog
 
+## v2.1.1
+|||
+|-|-|
+| **Date** | 01/06/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/516 |
+| **Latest Commit Hash** | 8f4d7e0dfea57f8cb818325567684b1e74e50305  |
+| **Stable?**  | y |
+
+Added:
+- dept and official docs page style guide urls work
+
 ## v2.1.0
 |||
 |-|-|
