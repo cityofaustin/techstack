@@ -1,5 +1,17 @@
 # Janis Changelog
 
+## v2.2.2
+|||
+|-|-|
+| **Date** | 01/09/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/669 |
+| **Latest Commit Hash** | 31bb7832e61541f6ee000c23db835f3ca0946fcc |
+| **Stable?**  | y |
+
+Fixes:
+- Broken location page related service urls
+- Blank divs on location page related services without phone number info
+- Topic cards on topic collection for unpublished topics
 
 ## v2.2.1
 |||
