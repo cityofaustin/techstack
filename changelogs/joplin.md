@@ -9,6 +9,17 @@
 | **Stable?**  | y |
 
 Added:
+- Fix typo in load_joplin_data [3719](https://github.com/cityofaustin/techstack/issues/3719)
+
+## v2.2.0
+|||
+|-|-|
+| **Date** | 01/09/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/521 |
+| **Latest Commit Hash** | fa934d71e79410ec2733031e01df433972e81a62  |
+| **Stable?**  | y |
+
+Added:
 - Update hours exceptions to support translations
 - Add steps with locations to service page steps
 - Add location page chooser to contact snippet
