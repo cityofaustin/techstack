@@ -1,11 +1,11 @@
 # Joplin Changelog
 
-## v2.2.0
+## v2.2.1
 |||
 |-|-|
 | **Date** | 01/09/2020   |
-| **PR link**  | https://github.com/cityofaustin/joplin/pull/521 |
-| **Latest Commit Hash** | fa934d71e79410ec2733031e01df433972e81a62  |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/524 |
+| **Latest Commit Hash** | 068f586ffc2980aef28478ffc5351a8a0565e4c6  |
 | **Stable?**  | y |
 
 Added:
