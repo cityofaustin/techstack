@@ -1,5 +1,26 @@
 # Janis Changelog
 
+## v2.2.3
+|||
+|-|-|
+| **Date** | 01/22/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/676 |
+| **Latest Commit Hash** | 73dfdc249dc8211709d935161e9a34137ea30fed |
+| **Stable?**  | y |
+
+Added:
+- Guide pages are more screen reader friendly [#3291](https://github.com/cityofaustin/janis/pull/640)
+- Seperate render controls for phone and email on location contacts [#3742](https://github.com/cityofaustin/janis/pull/671)
+- Displays hours exceptions for related services [#3772](https://github.com/cityofaustin/janis/pull/674)
+
+Changed:
+- Removed feedback form from Footer; it now must be added on a page by page basis [#3631](https://github.com/cityofaustin/janis/pull/674)
+- Pagination truncates in a user friendly way on mobile [#3585](https://github.com/cityofaustin/janis/pull/666)
+
+Fixed:
+- Blank divs on location page related services without phone number info
+- Topic cards on topic collection for unpublished topics
+
 ## v2.2.2
 |||
 |-|-|
