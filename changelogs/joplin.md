@@ -1,5 +1,20 @@
 # Joplin Changelog
 
+## v2.2.2
+|||
+|-|-|
+| **Date** | 01/22/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/531 |
+| **Latest Commit Hash** | c57d0a598e0b6199214bdd36557067ea2391aea6 |
+| **Stable?**  | y |
+
+Added: 
+- View live link for location pages [#3743](https://github.com/cityofaustin/techstack/issues/3743)
+
+Fixed:
+- CSS Scoping for tabs restricted to edit page only [#3719](https://github.com/cityofaustin/techstack/issues/3499)
+- Make sure create content modal is on search page [#3515](https://github.com/cityofaustin/techstack/issues/3515)
+
 ## v2.2.1
 |||
 |-|-|
