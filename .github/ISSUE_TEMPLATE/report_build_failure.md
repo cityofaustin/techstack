@@ -1,6 +1,7 @@
 ---
 name: Report a Joplin/Janis build failure
 about: Janis not building when you publish on Joplin? Report it here!
+title: ''
 label: "Performance", "Team: Dev"
 
 ---
