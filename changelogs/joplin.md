@@ -1,5 +1,22 @@
 # Joplin Changelog
 
+## v2.2.3
+|||
+|-|-|
+| **Date** | 01/27/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/539 |
+| **Latest Commit Hash** | 2fe999e7cd865cde636a8ad660e61ccd8a290e5f |
+| **Stable?**  | y |
+
+Added: 
+- Support incremental builds from the Joplin side. [#3692](https://github.com/cityofaustin/techstack/issues/3692)
+- Add service hours exceptions on the location page. [#3777](https://github.com/cityofaustin/techstack/issues/3777)
+
+Fixed:
+- Fix datadump creation bugs and missing error handling. [#3842](https://github.com/cityofaustin/techstack/issues/3842)
+- Fix "View Live" for location pages. [#3743](https://github.com/cityofaustin/techstack/issues/3743)
+- Improve local dev performance of Joplin.
+
 ## v2.2.2
 |||
 |-|-|
