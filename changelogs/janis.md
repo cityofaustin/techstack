@@ -14,7 +14,9 @@ Added:
 Changed:
 
 
+
 Fixed:
+- Feedback form no longer shows on each document on a document list page: [#3825](https://github.com/cityofaustin/techstack/issues/3825)
 
 
 ## v2.2.3
