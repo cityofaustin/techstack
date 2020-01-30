@@ -17,7 +17,7 @@ Changed:
 
 Fixed:
 - Feedback form no longer shows on each document on a document list page: [#3825](https://github.com/cityofaustin/techstack/issues/3825)
-- The save/resume confirmation page loads on embedded formstack forms now.
+- The save/resume confirmation page loads on embedded formstack forms now. [#3773](https://github.com/cityofaustin/techstack/issues/3773)
 
 ## v2.2.3
 |||
