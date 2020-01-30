@@ -1,5 +1,17 @@
 # Janis Changelog
 
+## v2.2.4
+|||
+|-|-|
+| **Date** | 01/30/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/681|
+| **Latest Commit Hash** | 908d6330a123809b0a646704804dc74d1c174bf8 |
+| **Stable?**  | y |
+
+Fixed:
+- Feedback form no longer shows on each document on a document list page: [#3825](https://github.com/cityofaustin/techstack/issues/3825)
+- The save/resume confirmation page loads on embedded formstack forms now. [#3773](https://github.com/cityofaustin/techstack/issues/3773)
+
 ## v2.2.3
 |||
 |-|-|
