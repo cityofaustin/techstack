@@ -3,9 +3,9 @@
 ## v2.3.0
 |||
 |-|-|
-| **Date** | 01/09/2020   |
-| **PR link TODO**  | https://github.com/cityofaustin/joplin/pull/521 |
-| **Latest Commit Hash** | fa934d71e79410ec2733031e01df433972e81a62  |
+| **Date** | 01/31/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/546 |
+| **Latest Commit Hash** | 9abda8ea488e25831b1380b6c3d75317f17e2b75  |
 | **Stable?**  | y |
 
 Added:
