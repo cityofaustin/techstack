@@ -1,5 +1,16 @@
 # Janis Changelog
 
+## v2.3.0
+|||
+|-|-|
+| **Date todo** | 01/09/2020   |
+| **PR link TODO**  | https://github.com/cityofaustin/janis/pull/663 |
+| **Latest Commit Hash TODO** | 6185b27a3487e80a7d4dd9db6d0a465454e37a87  |
+| **Stable?**  | y |
+
+Added:
+- Event details page [#3815](https://github.com/cityofaustin/techstack/issues/3815)
+
 ## v2.2.4
 |||
 |-|-|
