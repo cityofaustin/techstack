@@ -1,5 +1,16 @@
 # Janis Changelog
 
+## v2.3.1
+|||
+|-|-|
+| **Date todo** | 02/05/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/686 |
+| **Latest Commit Hash** | 954c31967a37888db21dd3d8b6510b1121da5ec9 |
+| **Stable?**  | y |
+
+Added:
+- Formstack forms don’t render [#3792](https://github.com/cityofaustin/janis/pull/680)
+
 ## v2.3.0
 |||
 |-|-|
