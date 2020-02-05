@@ -3,7 +3,7 @@
 ## v2.3.1
 |||
 |-|-|
-| **Date todo** | 02/05/2020   |
+| **Date** | 02/05/2020   |
 | **PR link**  | https://github.com/cityofaustin/janis/pull/686 |
 | **Latest Commit Hash** | 954c31967a37888db21dd3d8b6510b1121da5ec9 |
 | **Stable?**  | y |
@@ -14,7 +14,7 @@ Added:
 ## v2.3.0
 |||
 |-|-|
-| **Date todo** | 01/31/2020   |
+| **Date** | 01/31/2020   |
 | **PR link**  | https://github.com/cityofaustin/janis/pull/683 |
 | **Latest Commit Hash** | df5e127813852503c47691afd7ca6ce965b88a03  |
 | **Stable?**  | y |
