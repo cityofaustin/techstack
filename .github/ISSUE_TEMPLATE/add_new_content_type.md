@@ -40,4 +40,11 @@ about: Checklist of technical things that need to happen for a new content type 
 
 ## DevOps? (publisher, etc?)
 
+- [ ] changes to data dumps? 
+- [ ] test data/factories/fixtures to apply?
+- [ ] is the PR purely adding stuff, or are we also refactoring models/removing fields (this makes migration testing a bit   more involved)
+- [ ] can we test everything we need to on the branch? note potential conflicts or what _needs_ to be tested in staging (     should happen super rarely if at all )
+- [ ] are the new changes breaking any parts of the build process
+- [ ] once stuff is merged, did we clean up PR apps on heroku and netlify?
+
 ## Misc
