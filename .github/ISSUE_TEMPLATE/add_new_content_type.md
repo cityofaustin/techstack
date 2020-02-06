@@ -4,3 +4,12 @@ about: Checklist of technical things that need to happen for a new content type 
 
 ---
 
+## Janis
+
+## Joplin
+
+
+
+## DevOps? (publisher, etc?)
+
+## Misc
