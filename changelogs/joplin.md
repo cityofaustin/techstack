@@ -12,6 +12,7 @@ Added:
 - IA logic for publishing a page [#3823](https://github.com/cityofaustin/techstack/issues/3823)
 - Require a streamfield when publishing a page [3816](https://github.com/cityofaustin/techstack/issues/3816)
 - Service hours can be the same as location hours [3740](https://github.com/cityofaustin/techstack/issues/3740)
+- Automated tests run with our CI builds.
 
 Deprecated:
 - No longer allow publishing from content list view as a consequence of [#3823](https://github.com/cityofaustin/techstack/issues/3823)
