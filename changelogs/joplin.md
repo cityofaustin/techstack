@@ -1,5 +1,20 @@
 # Joplin Changelog
 
+## v2.3.1
+|||
+|-|-|
+| **Date** | 02/06/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/553 |
+| **Latest Commit Hash** | f06f6ebbdaa96b93bf86748db999887a0d096594  |
+| **Stable?**  | y |
+
+Added:
+- IA logic for publishing a page [#3823](https://github.com/cityofaustin/techstack/issues/3823)
+- Require a streamfield when publishing a page [3816](https://github.com/cityofaustin/techstack/issues/3827)
+
+Deprecated:
+- No longer allow publishing from content list view as a consequence of [#3823](https://github.com/cityofaustin/techstack/issues/3823)
+
 ## v2.3.0
 |||
 |-|-|
