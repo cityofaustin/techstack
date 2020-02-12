@@ -10,6 +10,7 @@
 
 Changed:
 - Made changes to the way steps data is parsed in order to fix a regression error [#3852](https://github.com/cityofaustin/techstack/issues/3852)
+
 Added:
 - New logic for handiling hours for a service related to a location [#3740](https://github.com/cityofaustin/techstack/issues/3740)
 
