@@ -1,5 +1,16 @@
 # Joplin Changelog
 
+## v2.4.0
+|||
+|-|-|
+| **Date** | 02/11/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/558 |
+| **Latest Commit Hash** | 1a9ae206b0f137cf1db70b9507707e5de3921660  |
+| **Stable?**  | y |
+
+Changed:
+- Made changes to the way streamfields are parsed and presented in graphql shecma in order to make sure expanded html is sent to the frontend[#3852](https://github.com/cityofaustin/techstack/issues/3852)
+
 ## v2.3.1
 |||
 |-|-|
