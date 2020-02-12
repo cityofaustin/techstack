@@ -1,5 +1,18 @@
 # Janis Changelog
 
+## v2.4.0
+|||
+|-|-|
+| **Date** | 02/12/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/687 |
+| **Latest Commit Hash** | 79be3329a8b8432f3cff5522229f70643afc4821 |
+| **Stable?**  | y |
+
+Changed:
+- Made changes to the way steps data is parsed in order to fix a regression error [#3852](https://github.com/cityofaustin/techstack/issues/3852)
+Added:
+- New logic for handiling hours for a service related to a location [#3740](https://github.com/cityofaustin/techstack/issues/3740)
+
 ## v2.3.1
 |||
 |-|-|
