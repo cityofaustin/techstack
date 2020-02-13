@@ -1,5 +1,19 @@
 # Janis Changelog
 
+## v2.4.1
+|||
+|-|-|
+| **Date** | 02/13/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/691 |
+| **Latest Commit Hash** | b5efad419eabd71c739102dbdc2c38e3ae3354d7 |
+| **Stable?**  | y |
+
+Added:
+- Design and width brackdown for locations components [#3840](https://github.com/cityofaustin/techstack/issues/3840)
+
+Changed:
+- Event detail padding/margins match mocks [#3917](https://github.com/cityofaustin/techstack/issues/3917)
+
 ## v2.4.0
 |||
 |-|-|
