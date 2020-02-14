@@ -1,5 +1,16 @@
 # Janis Changelog
 
+## v2.4.2
+|||
+|-|-|
+| **Date** | 02/13/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/693 |
+| **Latest Commit Hash** | e9aa0b5a8efce97be40f900fed3b13e80ecd85e9 |
+| **Stable?**  | y |
+
+Changed:
+- Location page service hours padding/margins matches spec [#3960](https://github.com/cityofaustin/techstack/issues/3960)
+
 ## v2.4.1
 |||
 |-|-|
