@@ -1,5 +1,25 @@
 # Joplin Changelog
 
+## v2.4.1
+|||
+|-|-|
+| **Date** | 02/20/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/570 |
+| **Latest Commit Hash** | 22e7d50221348e84460e4ce477f8fb7b53843574  |
+| **Stable?**  | y |
+
+Added:
+ - We now have pytest and pytest Django set up for writing tests in Joplin.
+ - We now are using react-streamfield to manage display of StreamFields in the author interface
+
+Changed:
+- Upgraded Wagtail to 2.8
+- Made some updates to the Events GraphQL schema to allow for some filtering & ordering
+
+Fixed:
+ - A docker image update caused CircleCI builds to fail, we added some parameters to our database to prevent the fail
+ - A dropdown UI bug we discovered was fixed via a PR to Wagtail which was accepted as part of 2.8 
+
 ## v2.4.0
 |||
 |-|-|
