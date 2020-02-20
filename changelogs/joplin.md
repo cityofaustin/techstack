@@ -9,15 +9,15 @@
 | **Stable?**  | y |
 
 Added:
- - We now have pytest and pytest Django set up for writing tests in Joplin.
- - We now are using react-streamfield to manage display of StreamFields in the author interface
+ - We now have pytest and pytest Django set up for writing tests in Joplin.[#3986](https://github.com/cityofaustin/techstack/issues/3986)
+ - We now are using react-streamfield to manage display of StreamFields in the author interface [#3851](https://github.com/cityofaustin/techstack/issues/3851)
 
 Changed:
-- Upgraded Wagtail to 2.8
-- Made some updates to the Events GraphQL schema to allow for some filtering & ordering
+- Upgraded Wagtail to 2.8 [#3912](https://github.com/cityofaustin/techstack/issues/3912)
+- Made some updates to the Events GraphQL schema to allow for some filtering & ordering [#3817](https://github.com/cityofaustin/techstack/issues/3817)
 
 Fixed:
- - A docker image update caused CircleCI builds to fail, we added some parameters to our database to prevent the fail
+ - A docker image update caused CircleCI builds to fail, we added some parameters to our database to prevent the fail [#3976](https://github.com/cityofaustin/techstack/issues/3976)
  - A dropdown UI bug we discovered was fixed via a PR to Wagtail which was accepted as part of 2.8 
 
 ## v2.4.0
