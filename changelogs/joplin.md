@@ -1,5 +1,21 @@
 # Joplin Changelog
 
+## v2.5.1
+|||
+|-|-|
+| **Date** | 02/25/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/580 |
+| **Latest Commit Hash** | 88a9e0553ad56ce8118b2e4b072b37bb1452721b |
+| **Stable?**  | y |
+
+Added:
+- Events can be filtered by cancelled in the API [PR #573](https://github.com/cityofaustin/joplin/pull/573)
+- Fees on events are hidden when "event is free" is checked [#3874](https://github.com/cityofaustin/techstack/issues/3874)
+
+Changed:
+- Copy for event description [#4001](https://github.com/cityofaustin/techstack/issues/4001)
+
+
 ## v2.5
 |||
 |-|-|
