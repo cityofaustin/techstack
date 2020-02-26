@@ -1,5 +1,22 @@
 # Janis Changelog
 
+## v2.6
+|||
+|-|-|
+| **Date** | 02/25/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/704 |
+| **Latest Commit Hash** | 0b60d24b4b018f9236c99cbbda9e89e2299909a3 |
+| **Stable?**  | y |
+
+*note: 2.5 was skipped because of multiple api changes on the Joplin side*
+
+Added:
+- Events list view [#3817](https://github.com/cityofaustin/techstack/issues/3817)
+
+Fixed:
+- Navigation no longer uses hardcoded themes [#3947](https://github.com/cityofaustin/techstack/issues/3947)
+- Padding/margins for steps with options [#3826](https://github.com/cityofaustin/techstack/issues/3826)
+
 ## v2.4.2
 |||
 |-|-|
