@@ -1,5 +1,26 @@
 # Janis Changelog
 
+## v2.6.1
+|||
+|-|-|
+| **Date** | 02/27/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/709 |
+| **Latest Commit Hash** | 14d8af80bd255b2b2e5fb4f5b488dd766262125e |
+| **Stable?**  | y |
+
+Added:
+- Localization for location link [#3896](https://github.com/cityofaustin/techstack/issues/3896)
+
+Changed:
+- Text in tables is now vertically aligned to the top of the cell [#3757](https://github.com/cityofaustin/techstack/issues/3757)
+- Feedback component styles [#3959](https://github.com/cityofaustin/techstack/issues/3959)
+
+Fixed:
+- "This page is a part of" link behavior on pages in guides [#3993](https://github.com/cityofaustin/techstack/issues/3993)
+- The entire rich text button element is a clickable link now [#3921](https://github.com/cityofaustin/techstack/issues/3921)
+- Layout/spacing on steps with locations [#3975](https://github.com/cityofaustin/techstack/issues/3975)
+
+
 ## v2.6
 |||
 |-|-|
