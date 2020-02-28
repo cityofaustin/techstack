@@ -4,7 +4,7 @@
 |||
 |-|-|
 | **Date** | 02/28/2020   |
-| **PR link**  | https://github.com/cityofaustin/joplin/pull/588 |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/590 |
 | **Latest Commit Hash** | 4587d93d520967fac1bb60a702a8ff269733c076 |
 | **Stable?**  | y |
 
