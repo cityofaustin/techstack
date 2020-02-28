@@ -1,5 +1,18 @@
 # Joplin Changelog
 
+## v2.7
+|||
+|-|-|
+| **Date** | 02/28/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/588 |
+| **Latest Commit Hash** | 4587d93d520967fac1bb60a702a8ff269733c076 |
+| **Stable?**  | y |
+
+Added:
+- Departments (as part of permissions) [#3813](https://github.com/cityofaustin/techstack/issues/3813)
+
+Changed:
+- The way we associate pages with departments [PR #557](https://github.com/cityofaustin/joplin/pull/557)
 
 ## v2.6.1
 |||
