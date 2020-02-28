@@ -1,5 +1,22 @@
 # Joplin Changelog
 
+
+## v2.6.1
+|||
+|-|-|
+| **Date** | 02/27/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/588 |
+| **Latest Commit Hash** | b87f1a7c0f50c34dee79421f0962c803bbd46cb7 |
+| **Stable?**  | y |
+
+Changed:
+- Default ordering of pages on search/list view is now by most recently edited [#3974](https://github.com/cityofaustin/techstack/issues/3974)
+- Limit events to one location [#3858](https://github.com/cityofaustin/techstack/issues/3858)
+- Performance improvements [PR 585](https://github.com/cityofaustin/joplin/pull/585), [PR 529](https://github.com/cityofaustin/joplin/pull/529)
+
+Fixed:
+- Labels on snippets [#3977](https://github.com/cityofaustin/techstack/issues/3977)
+
 ## v2.6
 |||
 |-|-|
