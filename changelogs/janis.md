@@ -1,5 +1,18 @@
 # Janis Changelog
 
+
+## v2.7
+|||
+|-|-|
+| **Date** | 02/28/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/710 |
+| **Latest Commit Hash** | 71e28f66884953eabe754466df7ddf154ee1b64e |
+| **Stable?**  | y |
+
+Changed:
+- Support updated joplin department API [#3983](https://github.com/cityofaustin/techstack/issues/3983)
+
+
 ## v2.6.1
 |||
 |-|-|
