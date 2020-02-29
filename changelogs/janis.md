@@ -1,5 +1,16 @@
 # Janis Changelog
 
+## v2.7.1
+|||
+|-|-|
+| **Date** | 02/28/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/712 |
+| **Latest Commit Hash** | f7b97d625366056016b25dcd9e1fb5f9ff22ef49 |
+| **Stable?**  | y |
+
+Fixed:
+- Static config fix for event page related departments [PR #711](https://github.com/cityofaustin/janis/pull/711)
+- Spacing between content and user feedback on location pages [PR #711](https://github.com/cityofaustin/janis/pull/711)
 
 ## v2.7
 |||
@@ -7,7 +18,7 @@
 | **Date** | 02/28/2020   |
 | **PR link**  | https://github.com/cityofaustin/janis/pull/710 |
 | **Latest Commit Hash** | 71e28f66884953eabe754466df7ddf154ee1b64e |
-| **Stable?**  | y |
+| **Stable?**  | n |
 
 Changed:
 - Support updated joplin department API [#3983](https://github.com/cityofaustin/techstack/issues/3983)
