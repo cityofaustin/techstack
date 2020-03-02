@@ -1,6 +1,22 @@
 # Joplin Changelog
 
-## v2.7
+## v2.7.1
+|||
+|-|-|
+| **Date** | 03/02/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/593 |
+| **Latest Commit Hash** | b1bb5cf747dedc64ee00131c2854e211c121b4a5 |
+| **Stable?**  | y |
+
+Fixed:
+- Department publish preflight fixed for official documents page [#4075](https://github.com/cityofaustin/techstack/issues/4075)
+
+Added:
+- [#3818](https://github.com/cityofaustin/techstack/issues/3818)
+- [#3942](https://github.com/cityofaustin/techstack/issues/3942)
+- [#3989](https://github.com/cityofaustin/techstack/issues/3989)
+
+## v2.7.0
 |||
 |-|-|
 | **Date** | 02/28/2020   |
