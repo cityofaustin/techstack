@@ -1,5 +1,18 @@
 # Janis Changelog
 
+## v2.7.2
+|||
+|-|-|
+| **Date** | 03/4/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/715 |
+| **Latest Commit Hash** | 4b211d9458e391dd3a4515b4b32d640f29bbd68c |
+| **Stable?**  | y |
+Added:
+- Events to the homepage [#3818](https://github.com/cityofaustin/techstack/issues/3818)
+Fixed:
+- Bug previewing departments [#4090](https://github.com/cityofaustin/techstack/issues/4090)
+
+
 ## v2.7.1
 |||
 |-|-|
