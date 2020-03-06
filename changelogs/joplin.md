@@ -4,6 +4,17 @@
 |||
 |-|-|
 | **Date** | 03/06/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/601 |
+| **Latest Commit Hash** | 887b06f2f3b67db06b122b2cba122242c23a08fa |
+| **Stable?**  | y |
+
+Fixed:
+- update the tests to remove outdated model references (PR #600)
+
+## v2.7.2
+|||
+|-|-|
+| **Date** | 03/06/2020   |
 | **PR link**  | https://github.com/cityofaustin/joplin/pull/599 |
 | **Latest Commit Hash** | 78043b3d7de9c02100286c94dd1bd636b97537f9 |
 | **Stable?**  | n |
@@ -15,7 +26,6 @@ Fixed:
 Added:
 - Location to style guide [#3995](https://github.com/cityofaustin/techstack/issues/3995)
 - Tests with factories [#3987](https://github.com/cityofaustin/techstack/issues/3987)
-- Location page to map snippet [#3996](https://github.com/cityofaustin/techstack/issues/3996)
 
 ## v2.7.1
 |||
