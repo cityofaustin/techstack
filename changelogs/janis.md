@@ -1,5 +1,16 @@
 # Janis Changelog
 
+## v2.7.3
+|||
+|-|-|
+| **Date** | 03/9/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/718 |
+| **Latest Commit Hash** | 0c6cda3b295aa7fcaa29c2760e8bea240d80ced2 |
+| **Stable?**  | y |
+
+Fixed:
+- Remove related departments ref [#4096](https://github.com/cityofaustin/techstack/issues/4096)
+
 ## v2.7.2
 |||
 |-|-|
