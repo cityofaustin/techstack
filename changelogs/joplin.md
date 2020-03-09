@@ -1,5 +1,16 @@
 # Joplin Changelog
 
+## v2.7.3
+|||
+|-|-|
+| **Date** | 03/09/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/603 |
+| **Latest Commit Hash** | 017ecc8b6e73b0f9b08c7a326c9512b50cc444e7 |
+| **Stable?**  | y |
+
+Added:
+- Joplin UI: Application Banner & Primary Navigation [#4014](https://github.com/cityofaustin/techstack/issues/4016)
+
 ## v2.7.2
 |||
 |-|-|
