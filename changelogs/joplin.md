@@ -9,7 +9,7 @@
 | **Stable?**  | y |
 
 Added:
-- Joplin UI: Application Banner & Primary Navigation [#4014](https://github.com/cityofaustin/techstack/issues/4016)
+- Joplin UI: Application Banner & Primary Navigation [#4016](https://github.com/cityofaustin/techstack/issues/4016)
 
 ## v2.7.2
 |||
