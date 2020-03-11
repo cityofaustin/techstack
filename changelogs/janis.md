@@ -9,7 +9,8 @@
 | **Stable?**  | y |
 
 Fixed:
-- Remove related departments ref [#4096](https://github.com/cityofaustin/techstack/issues/4096)
+- sticky scroll position [#4053](https://github.com/cityofaustin/techstack/issues/4053)
+
 
 ## v2.7.3
 |||
@@ -20,7 +21,7 @@ Fixed:
 | **Stable?**  | y |
 
 Fixed:
-- sticky scroll position [#4053](https://github.com/cityofaustin/techstack/issues/4053)
+- Remove related departments ref [#4096](https://github.com/cityofaustin/techstack/issues/4096)
 
 ## v2.7.2
 |||
