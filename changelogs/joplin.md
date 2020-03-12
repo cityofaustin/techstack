@@ -1,5 +1,16 @@
 # Joplin Changelog
 
+## v2.8.0
+|||
+|-|-|
+| **Date** | 03/12/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/605 |
+| **Latest Commit Hash** | 490cdad217d73b0d5b1b97cea43bdac7a5816ae8 |
+| **Stable?**  | y |
+
+Added:
+- Changes to schema to resolve if a top page is live, also only add live pages to site structure [#4042](https://github.com/cityofaustin/techstack/issues/4042)
+
 ## v2.7.3
 |||
 |-|-|
