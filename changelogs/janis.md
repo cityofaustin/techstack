@@ -1,5 +1,18 @@
 # Janis Changelog
 
+## v2.8.0
+|||
+|-|-|
+| **Date** | 03/12/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/723 |
+| **Latest Commit Hash** | d631ffb205c01316f9337a03bb13666d1f9e5bc4 |
+| **Stable?**  | y |
+
+Added:
+- language tag [#3641](https://github.com/cityofaustin/techstack/issues/3641)
+- get directions links [#4059](https://github.com/cityofaustin/techstack/issues/4059)
+- unpublished page still appears in production [#4042](https://github.com/cityofaustin/techstack/issues/4042)
+
 ## v2.7.4
 |||
 |-|-|
