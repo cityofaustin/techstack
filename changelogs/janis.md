@@ -1,5 +1,17 @@
 # Janis Changelog
 
+## v2.8.1
+|||
+|-|-|
+| **Date** | 03/16/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/726 |
+| **Latest Commit Hash** | a4dfa82e06091398fe859083239e9a926af0f524 |
+| **Stable?**  | y |
+
+Added:
+- Covid19 Alert Banner [#4154](https://github.com/cityofaustin/techstack/issues/4154)
+
+
 ## v2.8.0
 |||
 |-|-|
