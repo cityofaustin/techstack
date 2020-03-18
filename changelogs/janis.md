@@ -4,7 +4,7 @@
 |||
 |-|-|
 | **Date** | 03/18/2020   |
-| **PR link**  | https://github.com/cityofaustin/janis/pull/726 |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/724 |
 | **Latest Commit Hash** | 94a31f6b8b72e30f23ca519e99c79c1c3de4607f |
 | **Stable?**  | y |
 
