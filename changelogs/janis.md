@@ -1,5 +1,19 @@
 # Janis Changelog
 
+## v2.8.2
+|||
+|-|-|
+| **Date** | 03/18/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/726 |
+| **Latest Commit Hash** | 94a31f6b8b72e30f23ca519e99c79c1c3de4607f |
+| **Stable?**  | y |
+
+Added:
+- COVID-19 hours alert on location pages [#4158](https://github.com/cityofaustin/techstack/issues/4158)
+
+
+# Janis Changelog
+
 ## v2.8.1
 |||
 |-|-|
