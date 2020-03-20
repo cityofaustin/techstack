@@ -1,5 +1,16 @@
 # Janis Changelog
 
+## v2.8.3
+|||
+|-|-|
+| **Date** | 03/20/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/729 |
+| **Latest Commit Hash** | caed2daff0b722758409842c9ed7b705f9edb18a |
+| **Stable?**  | y |
+
+Fixed:
+- Broken builds with top level pages [#3899](https://github.com/cityofaustin/techstack/issues/3899)
+
 ## v2.8.2
 |||
 |-|-|
