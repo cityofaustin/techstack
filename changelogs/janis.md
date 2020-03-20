@@ -1,5 +1,17 @@
 # Janis Changelog
 
+
+## v2.8.4
+|||
+|-|-|
+| **Date** | 03/20/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/730 |
+| **Latest Commit Hash** | 992901d69f3acdc4bfb66dfbc7ff01f46082ead2 |
+| **Stable?**  | y |
+
+Added:
+- Localization/styling for form can't load fallback message [#3967](https://github.com/cityofaustin/techstack/issues/3967)
+
 ## v2.8.3
 |||
 |-|-|
@@ -10,6 +22,7 @@
 
 Fixed:
 - Broken builds with top level pages [#3899](https://github.com/cityofaustin/techstack/issues/3899)
+
 
 ## v2.8.2
 |||
