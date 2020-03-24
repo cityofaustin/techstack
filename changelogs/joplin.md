@@ -1,5 +1,16 @@
 # Joplin Changelog
 
+## v2.8.1
+|||
+|-|-|
+| **Date** | 03/24/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/619 |
+| **Latest Commit Hash** | 2e26d557295ba3d0d3533e276a6e654fa74c3d1d |
+| **Stable?**  | y |
+
+Added:
+- Ability to localize documents [#4076](https://github.com/cityofaustin/techstack/issues/4076)
+
 ## v2.8.0
 |||
 |-|-|
