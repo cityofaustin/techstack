@@ -1,5 +1,16 @@
 # Joplin Changelog
 
+## v2.8.3
+|||
+|-|-|
+| **Date** | 04/08/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/655 |
+| **Latest Commit Hash** | 05099cee63e99f52cd38c51e7635a2d3a7b0ea3b |
+| **Stable?**  | y |
+
+Added:
+- Hotfix to fix user resolvers [#4256](https://github.com/cityofaustin/techstack/issues/4256)
+
 ## v2.8.2
 |||
 |-|-|
