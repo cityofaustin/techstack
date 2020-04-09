@@ -1,5 +1,16 @@
 # Joplin Changelog
 
+## v2.8.2
+|||
+|-|-|
+| **Date** | 04/08/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/653 |
+| **Latest Commit Hash** | fbf985bf2eeda6156d0e4bd7a65208775608e631 |
+| **Stable?**  | y |
+
+Added:
+- Add authenticated resolver for page owners [#4256](https://github.com/cityofaustin/techstack/issues/4256)
+
 ## v2.8.1
 |||
 |-|-|
