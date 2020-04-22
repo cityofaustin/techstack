@@ -1,5 +1,20 @@
 # Joplin Changelog
 
+## v2.9.0
+|||
+|-|-|
+| **Date** | 04/22/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/702 |
+| **Latest Commit Hash** | 49b15f98716d59c57695f67d5622ba29bf82d4a3 |
+| **Stable?**  | y |
+
+Added:
+- Page revision API goodies to support importer
+
+Removed:
+- Mapblock logic from API to support importer [#4304](https://github.com/cityofaustin/techstack/issues/4304)
+
+
 ## v2.8.3
 |||
 |-|-|
