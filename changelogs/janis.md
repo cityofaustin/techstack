@@ -1,5 +1,16 @@
 # Janis Changelog
 
+## v2.9.0
+|||
+|-|-|
+| **Date** | 04/22/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/743 |
+| **Latest Commit Hash** | bf549b155241e94deb37128a3b52f85a17a31328 |
+| **Stable?**  | y |
+
+Removed:
+- Logic for rendering map blocks [#4304](https://github.com/cityofaustin/techstack/issues/4304)
+
 
 ## v2.8.4
 |||
