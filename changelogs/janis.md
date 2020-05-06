@@ -1,5 +1,17 @@
 # Janis Changelog
 
+## v3.0.0
+|||
+|-|-|
+| **Date** | 05/01/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/756 |
+| **Latest Commit Hash** | 687e3f601c57d938e2a8b824e5c075998c8969ea |
+| **Stable?**  | y |
+
+Added:
+- Ability to build from Joplin v3 https://github.com/cityofaustin/techstack/issues/4174
+
+
 ## v2.9.0
 |||
 |-|-|
