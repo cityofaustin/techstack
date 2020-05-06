@@ -1,5 +1,17 @@
 # Janis Changelog
 
+## v3.0.4
+|||
+|-|-|
+| **Date** | 05/06/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/765 |
+| **Latest Commit Hash** | 693b0f8b4e28525e189c4c422c229d8a59423119 |
+| **Stable?**  | y |
+
+Fixed:
+- locations showing extraneous commas 
+- site structure being queried twice
+
 ## v3.0.3
 |||
 |-|-|
