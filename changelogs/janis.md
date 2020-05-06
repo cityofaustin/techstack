@@ -9,7 +9,7 @@
 | **Stable?**  | y |
 
 Fixed:
-- Multiple hotfixes to allow production deployments to work for Publisher2.
+- v3.0.1, v3.0.2, v3.0.3 contain multiple hotfixes to allow production deployments to work for Publisher2.
 
 ## v3.0.0
 |||
@@ -17,7 +17,7 @@ Fixed:
 | **Date** | 05/01/2020   |
 | **PR link**  | https://github.com/cityofaustin/janis/pull/756 |
 | **Latest Commit Hash** | 687e3f601c57d938e2a8b824e5c075998c8969ea |
-| **Stable?**  | y |
+| **Stable?**  | y/n |
 
 Added:
 - Ability to build from Joplin v3 https://github.com/cityofaustin/techstack/issues/4174
