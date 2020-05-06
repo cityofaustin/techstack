@@ -21,7 +21,12 @@ Fixed:
 | **Stable?**  | y |
 
 Refactored:
-- Most of the things
+- Most of the things https://github.com/cityofaustin/techstack/issues/4174
+
+Added:
+- Added PageImporter to move pages between v2 to v3 environments
+- Added unit tests
+
 
 ## v2.9.0
 |||
