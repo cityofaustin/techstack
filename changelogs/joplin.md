@@ -1,5 +1,17 @@
 # Joplin Changelog
 
+## v3.0.1
+|||
+|-|-|
+| **Date** | 05/01/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/720 |
+| **Latest Commit Hash** | 745bc1fd95cebe90c76acba9018017673cae9876 |
+| **Stable?**  | y |
+
+Fixed:
+- How to temporarily remove automated Production backups from circleci in order for v3 to be pushed to a database-less production environment.
+
+
 ## v3.0.0
 |||
 |-|-|
