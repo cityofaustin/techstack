@@ -1,5 +1,16 @@
 # Janis Changelog
 
+## v3.0.3
+|||
+|-|-|
+| **Date** | 05/01/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/761 |
+| **Latest Commit Hash** | acfb87bcf07a781651585d1e2d78b8f80ae226f5 |
+| **Stable?**  | y |
+
+Fixed:
+- Multiple hotfixes to allow production deployments to work for Publisher2.
+
 ## v3.0.0
 |||
 |-|-|
@@ -10,7 +21,7 @@
 
 Added:
 - Ability to build from Joplin v3 https://github.com/cityofaustin/techstack/issues/4174
-
+- Uses Publisher2 for staging and production.
 
 ## v2.9.0
 |||
