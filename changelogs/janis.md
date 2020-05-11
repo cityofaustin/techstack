@@ -1,5 +1,18 @@
 # Janis Changelog
 
+## v3.0.5
+|||
+|-|-|
+| **Date** | 05/11/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/767 |
+| **Latest Commit Hash** | 65d3d66c15e51ed384483020051def73bf1d71af |
+| **Stable?**  | y |
+
+Added:
+- Janis Search: site index generation on build: https://github.com/cityofaustin/techstack/issues/4284
+
+# Janis Changelog
+
 ## v3.0.4
 |||
 |-|-|
