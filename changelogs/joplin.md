@@ -1,5 +1,18 @@
 # Joplin Changelog
 
+
+## v3.1.0
+|||
+|-|-|
+| **Date** | 05/13/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/725 |
+| **Latest Commit Hash** | 745bc1fd95cebe90c76acba9018017673cae9876 |
+| **Stable?**  | y |
+
+Added:
+- Related events to Information, Service and Location pages. https://github.com/cityofaustin/techstack/issues/4214 and https://github.com/cityofaustin/techstack/issues/4215
+
+
 ## v3.0.1
 |||
 |-|-|
