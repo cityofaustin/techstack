@@ -6,7 +6,7 @@
 |-|-|
 | **Date** | 05/13/2020   |
 | **PR link**  | https://github.com/cityofaustin/joplin/pull/725 |
-| **Latest Commit Hash** | 745bc1fd95cebe90c76acba9018017673cae9876 |
+| **Latest Commit Hash** | 825ed19ab52d10bcac7816b0180a26e2de29d97c |
 | **Stable?**  | y |
 
 Added:
