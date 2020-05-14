@@ -1,5 +1,7 @@
 # Janis Changelog
 
+
+
 ## v3.1.0
 |||
 |-|-|
@@ -10,6 +12,18 @@
 
 Added:
 - Related events on Service, Information and Location pages: https://github.com/cityofaustin/techstack/issues/4235
+
+
+## v3.1.1
+|||
+|-|-|
+| **Date** | 05/14/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/772 |
+| **Latest Commit Hash** | 87cec58af36601bc3dd21a15c5b4084948d4d872 |
+| **Stable?**  | y |
+
+Fixed:
+- Bug with page instance specific data https://github.com/cityofaustin/janis/pull/770
 
 
 ## v3.0.5
