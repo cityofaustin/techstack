@@ -1,5 +1,16 @@
 # Janis Changelog
 
+## v3.1.3
+|||
+|-|-|
+| **Date** | 05/15/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/776 |
+| **Latest Commit Hash** | 313cddc8c4c655bcd78e5abe72a036e8787a70d9 |
+| **Stable?**  | y |
+
+Updated:
+- Location page styles [#4241](https://github.com/cityofaustin/techstack/issues/4241), [#4242](https://github.com/cityofaustin/techstack/issues/4242)
+
 ## v3.1.2
 |||
 |-|-|
