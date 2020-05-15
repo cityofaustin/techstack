@@ -1,5 +1,15 @@
 # Joplin Changelog
 
+## v3.2.0
+|||
+|-|-|
+| **Date** | 05/15/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/727 |
+| **Latest Commit Hash** | 3b71bfcb17379050d0265b606511fc50dddfe939 |
+| **Stable?**  | y |
+
+Added:
+- News pages. https://github.com/cityofaustin/techstack/issues/4355
 
 ## v3.1.0
 |||
