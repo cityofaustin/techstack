@@ -1,5 +1,16 @@
 # Joplin Changelog
 
+## v3.2.2
+|||
+|-|-|
+| **Date** | 05/20/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/729 |
+| **Latest Commit Hash** | 4f3c66fc7d3665eb2cdcc041d4afedcafef99518 |
+| **Stable?**  | y |
+
+Fixed:
+- Fixed a few errors that would pop up if parts of forms werent filled out. https://github.com/cityofaustin/techstack/issues/4380
+
 ## v3.2.1
 |||
 |-|-|
