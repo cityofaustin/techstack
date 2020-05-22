@@ -1,5 +1,18 @@
 # Janis Changelog
 
+## v3.2.1
+|||
+|-|-|
+| **Date** | 05/21/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/780 |
+| **Latest Commit Hash** | d80f73caec18ddbe7552d4cb785bb97cf51ea174 |
+| **Stable?**  | y |
+
+Changed:
+- Query fewer pages at once during builds [#4422](https://github.com/cityofaustin/techstack/issues/4422)
+
+
+
 ## v3.2.0
 |||
 |-|-|
