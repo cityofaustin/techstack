@@ -1,5 +1,18 @@
 # Janis Changelog
 
+## v3.2.2
+|||
+|-|-|
+| **Date** | 05/27/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/782 |
+| **Latest Commit Hash** | 8f3187b09792ce43b0709907fa4eab0719ed0ae3 |
+| **Stable?**  | y |
+
+Added:
+- Search Page [#4285](https://github.com/cityofaustin/techstack/issues/4285)
+- Spanish Translations [#4286](https://github.com/cityofaustin/janis/pull/4286)
+
+
 ## v3.2.1
 |||
 |-|-|
