@@ -1,5 +1,20 @@
 # Joplin Changelog
 
+## v3.2.3
+|||
+|-|-|
+| **Date** | 06/01/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/738 |
+| **Latest Commit Hash** | 77dde577fc57b740544262e43cfaf79266511c7d |
+| **Stable?**  | y |
+
+Fixed:
+- We were getting spanish slugs even though janis doesn't support them yet https://github.com/cityofaustin/techstack/issues/4449
+
+Added:
+- Tests around page creation permissions https://github.com/cityofaustin/techstack/issues/4098
+
+
 ## v3.2.2
 |||
 |-|-|
