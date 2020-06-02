@@ -1,5 +1,16 @@
 # Janis Changelog
 
+## v3.2.3
+|||
+|-|-|
+| **Date** | 06/02/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/787 |
+| **Latest Commit Hash** | 9daff223aa08c6e785b4157e890334e9b1e3a1ca |
+| **Stable?**  | y |
+
+Fixed:
+- Button on Service Page Option [#4450](https://github.com/cityofaustin/techstack/issues/4450)
+
 ## v3.2.2
 |||
 |-|-|
