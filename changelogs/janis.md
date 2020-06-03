@@ -1,5 +1,18 @@
 # Janis Changelog
 
+## v3.2.4
+|||
+|-|-|
+| **Date** | 06/03/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/788 |
+| **Latest Commit Hash** | 5fe5dc6ac6f6d225d3374b3b18553064a11a1f92 |
+| **Stable?**  | y |
+
+Added:
+- Search Page Pagination [#4358](https://github.com/cityofaustin/techstack/issues/4358)
+- Search Page Navigation Icon [#4283]https://github.com/cityofaustin/techstack/issues/4283)
+
+
 ## v3.2.3
 |||
 |-|-|
@@ -21,7 +34,7 @@ Fixed:
 
 Added:
 - Search Page [#4285](https://github.com/cityofaustin/techstack/issues/4285)
-- Spanish Translations [#4286](https://github.com/cityofaustin/janis/pull/4286)
+- Spanish Translations [#4286](https://github.com/cityofaustin/techstack/issues/4286)
 
 
 ## v3.2.1
