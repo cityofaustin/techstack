@@ -1,5 +1,19 @@
 # Joplin Changelog
-## v3.2.3
+
+## v3.2.5
+|||
+|-|-|
+| **Date** | 06/09/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/743 |
+| **Latest Commit Hash** | c7de6fd5f010d3ba9edaec764e2a9ff8db54a71f |
+| **Stable?**  | y |
+
+
+Added:
+- Moderators and Editors are prevented from viewing pages outside their departments https://github.com/cityofaustin/techstack/issues/4099
+
+
+## v3.2.4
 |||
 |-|-|
 | **Date** | 06/06/2020   |
