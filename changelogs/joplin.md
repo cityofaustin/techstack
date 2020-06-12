@@ -1,5 +1,18 @@
 # Joplin Changelog
 
+## v3.2.6
+|||
+|-|-|
+| **Date** | 06/11/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/745 |
+| **Latest Commit Hash** | c36eb93cdc261bc564ce1f5ab24a84f9b11d05aa |
+| **Stable?**  | y |
+
+
+Added:
+- Group permission fixtures are loaded for editors and moderators groups
+https://github.com/cityofaustin/techstack/issues/4383
+
 ## v3.2.5
 |||
 |-|-|
