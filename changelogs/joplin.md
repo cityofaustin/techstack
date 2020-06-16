@@ -1,5 +1,19 @@
 # Joplin Changelog
 
+## v3.2.7
+|||
+|-|-|
+| **Date** | 06/15/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/748 |
+| **Latest Commit Hash** | 5f0acdd8d7cbaeefab941ba968be6dc08a8adde7 |
+| **Stable?**  | y |
+
+
+Added:
+- Prevent authors from seeing link to add Topics or Topic Collections in Create Content Modal
+https://github.com/cityofaustin/techstack/issues/4400
+
+
 ## v3.2.6
 |||
 |-|-|
