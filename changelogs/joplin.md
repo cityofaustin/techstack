@@ -1,5 +1,19 @@
 # Joplin Changelog
 
+## v3.2.8
+|||
+|-|-|
+| **Date** | 06/22/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/751 |
+| **Latest Commit Hash** | 2e7a550c2aa4430cf86d60ba1f528e225ef35185 |
+| **Stable?**  | y |
+
+
+Added:
+- Publishing/Unpublishing notification https://github.com/cityofaustin/techstack/issues/4356
+- PRs use postgres v12
+- Fixtures have revisions and are set as "published" if they are "live".
+
 ## v3.2.7
 |||
 |-|-|
