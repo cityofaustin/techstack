@@ -1,5 +1,17 @@
 # Joplin Changelog
 
+## v3.2.9
+|||
+|-|-|
+| **Date** | 06/23/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/753 |
+| **Latest Commit Hash** | eaafb1e0c2ff6ad143d468b139c46da5cbc7dd82 |
+| **Stable?**  | y |
+
+Added:
+- Postgres v12 support on local builds
+- Improved documentation for template.env env variables
+
 ## v3.2.8
 |||
 |-|-|
