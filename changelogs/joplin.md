@@ -10,8 +10,10 @@
 
 Added:
 - Make a report containing newly published pages that need translations cityofaustin/techstack#4495
+
 Fixed:
 - Bugs with template.env and make_pycharm_vars
+
 Removed:
 - .idea/RunConfigurations/*
 
