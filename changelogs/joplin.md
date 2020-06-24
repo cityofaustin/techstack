@@ -1,5 +1,20 @@
 # Joplin Changelog
 
+## v3.2.11
+|||
+|-|-|
+| **Date** | 06/24/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/758 |
+| **Latest Commit Hash** | dfbe3226b6766afede3837d4908836245e65c8b8 |
+| **Stable?**  | y |
+
+Added:
+- Make a report containing newly published pages that need translations cityofaustin/techstack#4495
+Fixed:
+- Bugs with template.env and make_pycharm_vars
+Removed:
+- .idea/RunConfigurations/*
+
 ## v3.2.10
 |||
 |-|-|
@@ -8,7 +23,7 @@
 | **Latest Commit Hash** | 2d9f76e1baeb22da34d8073127440f3bca58604b |
 | **Stable?**  | y |
 
-Added:
+Fixed:
 - Fixed bugs with publish notification banner https://github.com/cityofaustin/techstack/issues/4541
 
 ## v3.2.9
