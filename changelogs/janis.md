@@ -1,5 +1,17 @@
 # Janis Changelog
 
+## v3.2.6
+|||
+|-|-|
+| **Date** | 06/26/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/805 |
+| **Latest Commit Hash** | 419eda2590963b9f356a1368b6edf77ade5c7655 |
+| **Stable?**  | y |
+
+Added:
+- Filling out and fixing Spanish microcopy: [#4459](https://github.com/cityofaustin/techstack/issues/4459)
+
+
 ## v3.2.5
 |||
 |-|-|
