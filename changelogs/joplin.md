@@ -3,6 +3,17 @@
 ## v3.2.11
 |||
 |-|-|
+| **Date** | 06/26/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/761 |
+| **Latest Commit Hash** | 26850e725244ea9abbe9a4ce5eed520c48cf8915 |
+| **Stable?**  | y |
+
+Fixed:
+- Page publishing statuses are displayed consistently
+
+## v3.2.11
+|||
+|-|-|
 | **Date** | 06/24/2020   |
 | **PR link**  | https://github.com/cityofaustin/joplin/pull/758 |
 | **Latest Commit Hash** | dfbe3226b6766afede3837d4908836245e65c8b8 |
