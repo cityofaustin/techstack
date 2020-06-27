@@ -9,7 +9,7 @@
 | **Stable?**  | y |
 
 Fixed:
-- Page publishing statuses are displayed consistently
+- Page unpublishing statuses display correctly https://github.com/cityofaustin/techstack/issues/4559
 
 ## v3.2.11
 |||
