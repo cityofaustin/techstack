@@ -1,5 +1,16 @@
 # Janis Changelog
 
+## v3.2.7
+|||
+|-|-|
+| **Date** | 07/03/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/810 |
+| **Latest Commit Hash** | ec5c9f8eb81e3fa9b807386e42d6f17d5a782f4e |
+| **Stable?**  | y |
+
+Fixed:
+- Location page padding for related service hours with contact: [#4411](https://github.com/cityofaustin/techstack/issues/4411)
+
 ## v3.2.6
 |||
 |-|-|
