@@ -1,5 +1,16 @@
 # Joplin Changelog
 
+## v3.2.13
+|||
+|-|-|
+| **Date** | 07/03/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/766 |
+| **Latest Commit Hash** | c1dfe98b485b5801a6db593c4fc00fb5063d41cc |
+| **Stable?**  | y |
+
+Fixed:
+- Spanish top pages 404 [#4503](https://github.com/cityofaustin/techstack/issues/4503)
+
 ## v3.2.12
 |||
 |-|-|
