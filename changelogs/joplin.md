@@ -1,5 +1,16 @@
 # Joplin Changelog
 
+## v3.2.14
+|||
+|-|-|
+| **Date** | 07/08/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/770 |
+| **Latest Commit Hash** | 0dcc0ad4022cb1b2a6bd25ed587f15e2fd4cf72a |
+| **Stable?**  | y |
+
+Fixed:
+- Styleguide URLs were changed [#4600](https://github.com/cityofaustin/techstack/issues/4600)
+
 ## v3.2.13
 |||
 |-|-|
