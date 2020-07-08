@@ -1,5 +1,16 @@
 # Janis Changelog
 
+## v3.2.8
+|||
+|-|-|
+| **Date** | 07/08/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/812 |
+| **Latest Commit Hash** | 718822cab229e5d138acc361fedc84a863891506 |
+| **Stable?**  | y |
+
+Fixed:
+- Allow language switching in Previews: [#4596](https://github.com/cityofaustin/techstack/issues/4596)
+
 ## v3.2.7
 |||
 |-|-|
