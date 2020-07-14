@@ -9,7 +9,7 @@
 | **Stable?**  | y |
 
 Added:
-- gzip compression for Janis builds
+- gzip compression for Janis builds [#4611](https://github.com/cityofaustin/techstack/issues/4611)
 
 
 ## v3.3.0
