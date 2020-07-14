@@ -1,5 +1,17 @@
 # Janis Changelog
 
+## v3.3.1
+|||
+|-|-|
+| **Date** | 07/14/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/816 |
+| **Latest Commit Hash** | 8de3a3e132a3818e9c6c6fc4c419061636a8042c |
+| **Stable?**  | y |
+
+Added:
+- gzip compression for Janis builds
+
+
 ## v3.3.0
 |||
 |-|-|
