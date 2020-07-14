@@ -1,5 +1,19 @@
 # Joplin Changelog
 
+## v3.3.0
+|||
+|-|-|
+| **Date** | 07/13/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/775 |
+| **Latest Commit Hash** | dd974de47638ff0b388391f2a5c561fe8335a61b |
+| **Stable?**  | y |
+
+Added:
+- New Models: Official Document Collections and Official Document Pages (https://github.com/cityofaustin/joplin/pull/771)
+
+Changed:
+- Make publish succeeded endpoint asynchronous (https://github.com/cityofaustin/joplin/pull/774)
+
 ## v3.2.14
 |||
 |-|-|
