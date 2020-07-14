@@ -1,5 +1,17 @@
 # Janis Changelog
 
+## v3.3.0
+|||
+|-|-|
+| **Date** | 07/13/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/815 |
+| **Latest Commit Hash** | a30464d8e1ad6622b1e50772230f317918558494 |
+| **Stable?**  | y |
+
+Updated:
+- Updated static.config to handle the schema changes in joplin 3.3.0 (https://github.com/cityofaustin/janis/pull/797)
+
+
 ## v3.2.8
 |||
 |-|-|
