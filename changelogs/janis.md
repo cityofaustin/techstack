@@ -1,5 +1,18 @@
 # Janis Changelog
 
+## v3.4.0
+|||
+|-|-|
+| **Date** | 07/17/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/821 |
+| **Latest Commit Hash** | dba31faec370b55eb46baa36cc7df26735a7b5a8 |
+| **Stable?**  | y |
+
+Added:
+- Previews for new Official Documents Collection [#4621](https://github.com/cityofaustin/techstack/issues/4621)
+- remove CMS_DOCS environment variable, document url address information is handled by Joplin
+- `config.devtool = false` in node.api.js to fix dev server errors
+
 ## v3.3.1
 |||
 |-|-|
