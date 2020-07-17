@@ -1,5 +1,18 @@
 # Joplin Changelog
 
+## v3.4.0
+|||
+|-|-|
+| **Date** | 07/17/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/779 |
+| **Latest Commit Hash** | 21cebacaa26753776a6ddee60155a176905f2b24 |
+| **Stable?**  | y |
+
+Added:
+- Previews for new Official Documents Collection [#4621](https://github.com/cityofaustin/techstack/issues/4621)
+- Automated sync_data script
+- remove CMS_DOCS environment variable, document url address information is handled by Joplin
+
 ## v3.3.0
 |||
 |-|-|
