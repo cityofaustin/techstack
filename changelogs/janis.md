@@ -1,5 +1,17 @@
 # Janis Changelog
 
+## v3.4.1
+|||
+|-|-|
+| **Date** | 07/21/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/824 |
+| **Latest Commit Hash** | 5b73a21d2d5da93333e54a62d94015e3eb291c1d |
+| **Stable?**  | y |
+
+Fixed:
+- Removed ineffective compression-webpack-plugin [#4611](https://github.com/cityofaustin/techstack/issues/4611)
+- Moved bulk pickup message in trashy app [#4327](https://github.com/cityofaustin/techstack/issues/4327)
+
 ## v3.4.0
 |||
 |-|-|
