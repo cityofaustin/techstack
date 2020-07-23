@@ -1,5 +1,21 @@
 # Janis Changelog
 
+## v3.4.2
+|||
+|-|-|
+| **Date** | 07/23/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/827 |
+| **Latest Commit Hash** | 3a74c544feec4a5a7220816369fc3f76ba1a1a7b |
+| **Stable?**  | y |
+
+Added: 
+- 🤝 4392 nav2: Header and Themes Buttons dev criteria [#4392](https://github.com/cityofaustin/techstack/issues/4392)
+- Search enhancement: enter (keypress) to submit search query [#4510](https://github.com/cityofaustin/techstack/issues/4510)
+- 🎨 Contextual navigation background color [#4393](https://github.com/cityofaustin/techstack/issues/4393)
+
+Fixed:
+- Global alert: responsive CSS tweak [#4156](https://github.com/cityofaustin/techstack/issues/4510)
+
 ## v3.4.1
 |||
 |-|-|
