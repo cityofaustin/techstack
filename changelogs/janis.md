@@ -1,5 +1,17 @@
 # Janis Changelog
 
+## v3.4.3
+|||
+|-|-|
+| **Date** | 07/24/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/828 |
+| **Latest Commit Hash** | 8d96572c7caf19617b4de3e3133ebe02a2b75ec6 |
+| **Stable?**  | y |
+
+
+Fixed:
+- Social Media Links [#4689](https://github.com/cityofaustin/techstack/issues/4689)
+
 ## v3.4.2
 |||
 |-|-|
