@@ -1,5 +1,16 @@
 # Joplin Changelog
 
+## v3.4.1
+|||
+|-|-|
+| **Date** | 07/26/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/783 |
+| **Latest Commit Hash** | 21cebacaa26753776a6ddee60155a176905f2b24 |
+| **Stable?**  | y |
+
+Changed:
+- Removes old OfficialDocumentPage and OfficialDocumentPageDocument models [#4602](https://github.com/cityofaustin/techstack/issues/4602)
+
 ## v3.4.0
 |||
 |-|-|
