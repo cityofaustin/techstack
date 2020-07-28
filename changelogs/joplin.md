@@ -1,6 +1,17 @@
 # Joplin Changelog
 
-## v3.4.1
+## v3.4.3
+|||
+|-|-|
+| **Date** | 07/28/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/785 |
+| **Latest Commit Hash** | d9f1f0b7c716921a1e1444429d43ec12ead64443 |
+| **Stable?**  | y |
+
+Changed:
+- Enable password reset [#4402](https://github.com/cityofaustin/techstack/issues/4402)
+
+## v3.4.2
 |||
 |-|-|
 | **Date** | 07/27/2020   |
