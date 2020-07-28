@@ -3,6 +3,17 @@
 ## v3.4.1
 |||
 |-|-|
+| **Date** | 07/27/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/784 |
+| **Latest Commit Hash** | cb8cca8d8429c2066c21b92075f9ee35b0fa7045 |
+| **Stable?**  | y |
+
+Changed:
+- Removes SEO tab and move slug field to edit page [#4581](https://github.com/cityofaustin/techstack/issues/4581)
+
+## v3.4.1
+|||
+|-|-|
 | **Date** | 07/26/2020   |
 | **PR link**  | https://github.com/cityofaustin/joplin/pull/783 |
 | **Latest Commit Hash** | 21cebacaa26753776a6ddee60155a176905f2b24 |
