@@ -1,5 +1,16 @@
 # Joplin Changelog
 
+## v3.5.0
+|||
+|-|-|
+| **Date** | 07/29/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/787 |
+| **Latest Commit Hash** | 3d905d7c85134d9344e650c597c9486f5be982b |
+| **Stable?**  | y |
+
+Added:
+- Adds the department resolver to OfficialDocumentPages and OfficialDocumentPages to preview [#4591](https://github.com/cityofaustin/techstack/issues/4591)
+
 ## v3.4.3
 |||
 |-|-|
