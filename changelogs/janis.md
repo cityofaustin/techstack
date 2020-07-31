@@ -1,5 +1,20 @@
 # Janis Changelog
 
+
+## v3.5.1
+|||
+|-|-|
+| **Date** | 07/31/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/827 |
+| **Latest Commit Hash** | 22834016b022db420fc118a8e4e1bf7d5c02dda5 |
+| **Stable?**  | y |
+
+Added: 
+- Update Janis "😃 Getting Started" Section [#4634](https://github.com/cityofaustin/techstack/issues/4634)
+
+Fixes: 
+- Use smaller seal image on Janis [#4660](https://github.com/cityofaustin/techstack/issues/4660)
+
 ## v3.5.0
 |||
 |-|-|
