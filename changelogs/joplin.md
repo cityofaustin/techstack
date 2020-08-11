@@ -12,7 +12,7 @@ Added:
 - New User welcome email messages [#4397](https://github.com/cityofaustin/techstack/issues/4397)
 - Links can be addded to OfficialDocumentCollection description [#4747](https://github.com/cityofaustin/techstack/issues/4747)
 - Links can be addded to Location hours [#4758](https://github.com/cityofaustin/techstack/issues/4758)
-- Add "body" field to OfficialDocumentPage [#4641](https://github.com/cityofaustin/techstack/issues/4641)
+- "Body" field for OfficialDocumentPage [#4641](https://github.com/cityofaustin/techstack/issues/4641)
 
 ## v3.5.0
 |||
