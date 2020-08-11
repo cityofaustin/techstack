@@ -1,5 +1,16 @@
 # Janis Changelog
 
+## v3.6.0
+|||
+|-|-|
+| **Date** | 08/11/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/836 |
+| **Latest Commit Hash** | 6dd56a8736568aa41650ca546aeb92f4bca6831f |
+| **Stable?**  | y |
+
+Added:
+- Links can be addded to OfficialDocumentCollection description [#4747](https://github.com/cityofaustin/techstack/issues/4747)
+- Links can be addded to Location hours [#4758](https://github.com/cityofaustin/techstack/issues/4758)
 
 ## v3.5.1
 |||
