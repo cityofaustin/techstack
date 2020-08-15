@@ -1,5 +1,16 @@
 # Janis Changelog
 
+## v3.6.1
+|||
+|-|-|
+| **Date** | 08/14/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/839 |
+| **Latest Commit Hash** | d39e0bec89fe019dd0250e0b1c702b8ed0eac581 |
+| **Stable?**  | y |
+
+Fixed:
+- Bug where searching for only a number was breaking [#4698](https://github.com/cityofaustin/techstack/issues/4698)
+
 ## v3.6.0
 |||
 |-|-|
