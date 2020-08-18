@@ -1,5 +1,17 @@
 # Joplin Changelog
 
+
+## v3.7.0
+|||
+|-|-|
+| **Date** | 08/18/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/795 |
+| **Latest Commit Hash** | 24aba57839f5bff00e74a86215d78bfe67df7fb0 |
+| **Stable?**  | y |
+
+Added:
+- News list items so Janis can show news on department pages [#4404]
+
 ## v3.6.0
 |||
 |-|-|
