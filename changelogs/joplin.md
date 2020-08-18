@@ -1,5 +1,17 @@
 # Joplin Changelog
 
+## v3.7.1
+|||
+|-|-|
+| **Date** | 08/18/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/798 |
+| **Latest Commit Hash** | 74e13f882d463ee80f01b96cff658a3837a5440f |
+| **Stable?**  | y |
+
+Added:
+- Translation reports are now sent via automated emails [#4695](https://github.com/cityofaustin/techstack/issues/5695)
+Updated:
+- Wagtail upgraded to v2.9.3, upgraded other packages with security vulenerabilities [#4375](https://github.com/cityofaustin/techstack/issues/4375)
 
 ## v3.7.0
 |||
