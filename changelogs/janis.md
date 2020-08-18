@@ -1,5 +1,22 @@
 # Janis Changelog
 
+## v3.7.0
+|||
+|-|-|
+| **Date** | 08/18/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/841 |
+| **Latest Commit Hash** | 93e14463a6ee89fb1adf92498462bfd4a8e99d1c |
+| **Stable?**  | y |
+
+Added:
+- News list items on department pages [#4404](https://github.com/cityofaustin/techstack/issues/4404)
+- Nav2 Dropdown [#4648](https://github.com/cityofaustin/techstack/issues/4648)
+- WIP banner [#3992](https://github.com/cityofaustin/techstack/issues/3992)
+
+Fixed: 
+
+- Missing airport and 311 links [#4737](https://github.com/cityofaustin/techstack/issues/4737)
+
 ## v3.6.1
 |||
 |-|-|
