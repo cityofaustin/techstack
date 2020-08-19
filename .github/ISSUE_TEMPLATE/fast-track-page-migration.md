@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ### Page or pages that needs to be migrated:
-name and link
+*name and link*
 
 - [ ]  Create pages using current content types.
 - [ ]  Make no additions to the text, you may delete redundant text.
