@@ -1,6 +1,9 @@
 ---
 name: Bug report
 about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
@@ -32,4 +35,3 @@ A clear and concise description of what you expected to happen
 
 ## Additional context
 <!--- How has this issue affected you? What are you trying to accomplish? Does this prevent a user from completing a task? If so, what task? Providing context helps us come up with a solution that is most useful in the real world. -->
-

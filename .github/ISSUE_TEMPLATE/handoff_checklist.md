@@ -1,8 +1,13 @@
 ---
 name: Dev handoff checklist
-about: What to consider when writing acceptance criteria for new content types and larger feature sets
+about: What to consider when writing acceptance criteria for new content types and
+  larger feature sets
+title: ''
+labels: ''
+assignees: ''
 
 ---
+
 Visual design
 - [ ] Mocks for all breakpoints
   - [ ] [Desktop](paste URL here)

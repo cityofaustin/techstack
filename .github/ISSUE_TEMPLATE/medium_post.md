@@ -1,7 +1,12 @@
 ---
-name: Medium Post Writing process and checklist 
+name: Medium Post Writing process and checklist
 about: For composing a Medium post
+title: ''
+labels: ''
+assignees: ''
+
 ---
+
 **To-dos before publishing**
 <!--- here we list the steps to take before publishing a post under @Civiqueso on Medium.com --->
 [So, you wanna publish a Medium post?](https://docs.google.com/document/d/1KMFASGEiuEkWKdo4jeOmHZOfc02LKVsPiapxvD3IpkU/edit#heading=h.5zkr43xy0rg3)

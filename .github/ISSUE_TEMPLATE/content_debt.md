@@ -1,8 +1,13 @@
 ---
-name: Content debt 
-about: For publishing content on Joplin that should be changed or improved in the future when we have new functionality available
+name: Content debt
+about: For publishing content on Joplin that should be changed or improved in the
+  future when we have new functionality available
+title: ''
+labels: ''
+assignees: ''
 
 ---
+
 *Make sure to add the label "Content debt." If available, add the appropriate "Content type" or "Feature" label.*
 
 **What is the URL?**
@@ -20,5 +25,3 @@ about: For publishing content on Joplin that should be changed or improved in th
 
 **What approvals will be needed to publish this content change?**
 <!--- Add the program or contact we need to be in touch with when this gets updated in the future. --->
-
-

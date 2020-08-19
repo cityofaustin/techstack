@@ -1,6 +1,9 @@
 ---
 name: Meeting
 about: Let's talk about it
+title: ''
+labels: ''
+assignees: ''
 
 ---
 

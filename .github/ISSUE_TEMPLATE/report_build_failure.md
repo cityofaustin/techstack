@@ -2,9 +2,11 @@
 name: Report a Joplin/Janis build failure
 about: Janis not building when you publish on Joplin? Report it here!
 title: ''
-labels: "Performance"
+labels: Performance
+assignees: ''
 
 ---
+
 ### When did this happen?
 *Rough estimate if fine, but the more precise, the better*
 

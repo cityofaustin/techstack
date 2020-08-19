@@ -2,7 +2,9 @@
 name: Content team request
 about: Request content support outside the scope of the austin.gov project
 title: ''
-labels: "Team: Content"
+labels: 'Team: Content'
+assignees: ''
+
 ---
 
 **When is this project due?**

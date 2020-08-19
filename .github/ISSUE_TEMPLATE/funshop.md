@@ -1,8 +1,12 @@
 ---
 name: Funshop
 about: For organizing, coordinating, and hosting a Funshop
+title: ''
+labels: ''
+assignees: ''
 
 ---
+
 For detailed instructions, read the [How to: Funshop! doc on the drive](https://docs.google.com/document/d/1-SxmgP09VjtlLcLR4lE4f23Psg7DC-SBGq1-NxXyE44/edit#).
 
 - [ ] Schedule Funshop- if it's at the History Center, check their calendar and reserve a spot.

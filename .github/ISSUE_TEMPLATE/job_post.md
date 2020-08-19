@@ -1,8 +1,12 @@
 ---
 name: Job post blast
 about: Places to post new job listings when we're hiring
+title: ''
+labels: ''
+assignees: ''
 
 ---
+
 **Job posting**
 <!--- Insert URL of job post here --->
 
