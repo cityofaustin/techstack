@@ -1,5 +1,20 @@
 # Janis Changelog
 
+## v3.7.1
+|||
+|-|-|
+| **Date** | 08/28/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/848 |
+| **Latest Commit Hash** | 14987338a5d0ab099cc73ae164a5fcdeb785fc9d |
+| **Stable?**  | y |
+
+Added:
+- Clean data - Official Document Pages in search results [#4618](https://github.com/cityofaustin/techstack/issues/4681)
+- Style - Official Document Pages in search results [#4861](https://github.com/cityofaustin/techstack/issues/4861)
+
+Fixed: 
+- Search bar input doesn't clear after user press the back button in the browser [#4704](https://github.com/cityofaustin/techstack/issues/4704)
+
 ## v3.7.0
 |||
 |-|-|
