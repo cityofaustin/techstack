@@ -1,5 +1,20 @@
 # Joplin Changelog
 
+## 3.8.0
+
+## v3.7.1
+|||
+|-|-|
+| **Date** | 08/31/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/806 |
+| **Latest Commit Hash** | 873950136154af4a49ec6f4f236e3291f38b41fa |
+| **Stable?**  | y |
+
+Added:
+- Official Document Pages summary fields are rich text fields [#4872](https://github.com/cityofaustin/techstack/issues/4872)
+- Set factory-boy to 2.12.0
+
+
 ## v3.7.1
 |||
 |-|-|
