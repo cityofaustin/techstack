@@ -1,5 +1,18 @@
 # Janis Changelog
 
+
+## v3.8.0
+|||
+|-|-|
+| **Date** | 08/31/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/849 |
+| **Latest Commit Hash** | 820b868078f5993a74ed264e354b78e34b988714 |
+| **Stable?**  | y |
+
+Added:
+- Official Document Page summary fields are rich text fields, this update changes the component to handle html from joplin [#4872](https://github.com/cityofaustin/techstack/issues/4872)
+
+
 ## v3.7.1
 |||
 |-|-|
