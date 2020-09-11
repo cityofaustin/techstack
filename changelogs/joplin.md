@@ -1,5 +1,16 @@
 # Joplin Changelog
 
+## v3.8.1
+|||
+|-|-|
+| **Date** | 09/10/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/810 |
+| **Latest Commit Hash** | 0b77955a05c22a5c7009865eb25afbb6cc5b452b |
+| **Stable?**  | y |
+
+Added:
+- Script to extract text from pdfs for official document pages
+
 ## v3.8.0
 |||
 |-|-|
