@@ -9,7 +9,7 @@
 | **Stable?**  | y |
 
 Added:
-- Add new fields to API schema to help with search index building
+- Add new fields to API schema to help with search index building [#4776](https://github.com/cityofaustin/techstack/issues/4776)
 
 Changed:
 - All page nodes in API schema inherit from JanisBasePageNode
