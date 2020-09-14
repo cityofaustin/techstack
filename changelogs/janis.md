@@ -1,5 +1,15 @@
 # Janis Changelog
 
+## v3.9.0
+|||
+|-|-|
+| **Date** | 09/14/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/856 |
+| **Latest Commit Hash** | 642522cf60e8e979d8aab836ba61185317bac766 |
+| **Stable?**  | y |
+
+Changed:
+- searchIndexBuilder refactor. The searchIndex is now in a format that can be sent to Elasticsearch. [#4776](https://github.com/cityofaustin/techstack/issues/4776)
 
 ## v3.8.0
 |||
