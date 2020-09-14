@@ -1,5 +1,19 @@
 # Joplin Changelog
 
+## v3.9.0
+|||
+|-|-|
+| **Date** | 09/14/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/811 |
+| **Latest Commit Hash** | 3b4d536ed3c4a101358415a3712948bd00aea8db |
+| **Stable?**  | y |
+
+Added:
+- Add new fields to API schema to help with search index building
+
+Changed:
+- All page nodes in API schema inherit from JanisBasePageNode
+
 ## v3.8.1
 |||
 |-|-|
