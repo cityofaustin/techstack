@@ -1,5 +1,16 @@
 # Janis Changelog
 
+## v3.9.1
+|||
+|-|-|
+| **Date** | 09/22/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/858 |
+| **Latest Commit Hash** | db96af7b77c8ee12bdb7d4ea5f5ce79159ba6221 |
+| **Stable?**  | y |
+
+Changed:
+- New Banner Image: [#4893](https://github.com/cityofaustin/techstack/issues/4893)
+
 ## v3.9.0
 |||
 |-|-|
