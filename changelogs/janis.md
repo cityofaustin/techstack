@@ -1,5 +1,16 @@
 # Janis Changelog
 
+## v3.9.2
+|||
+|-|-|
+| **Date** | 09/30/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/863 |
+| **Latest Commit Hash** | 39ba10840be97279d58d52ef993a887272095048 |
+| **Stable?**  | y |
+
+Changed:
+- Global nav: remaining styling: [#4830](https://github.com/cityofaustin/techstack/issues/4830)
+
 ## v3.9.1
 |||
 |-|-|
