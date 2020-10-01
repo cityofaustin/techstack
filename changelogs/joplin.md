@@ -6,7 +6,7 @@
 | **Date** | 09/30/2020   |
 | **PR link**  | https://github.com/cityofaustin/joplin/pull/819 |
 | **Latest Commit Hash** | 3b4d536ed3c4a101358415a3712948bd00aea8db |
-| **Stable?**  | y |
+| **Stable?**  | n |
 
 Added:
 - Add images to Information pages [#4947](https://github.com/cityofaustin/techstack/issues/4947)
