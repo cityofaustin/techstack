@@ -1,5 +1,24 @@
 # Joplin Changelog
 
+## v3.9.1
+|||
+|-|-|
+| **Date** | 09/30/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/819 |
+| **Latest Commit Hash** | 3b4d536ed3c4a101358415a3712948bd00aea8db |
+| **Stable?**  | y |
+
+Added:
+- Add images to Information pages [#4947](https://github.com/cityofaustin/techstack/issues/4947)
+- License.txt
+
+Removed:
+- Tags from Images [#4897](https://github.com/cityofaustin/techstack/issues/4897)
+
+Changed: 
+- News page helper text [#4720](https://github.com/cityofaustin/techstack/issues/4720)
+- Greenlet package to 0.4.17
+
 ## v3.9.0
 |||
 |-|-|
