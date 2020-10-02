@@ -1,5 +1,16 @@
 # Joplin Changelog
 
+## v3.9.2
+|||
+|-|-|
+| **Date** | 10/01/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/822 |
+| **Latest Commit Hash** | 330ace40e2420964387cd5ee6496767814e4005a |
+| **Stable?**  | y|
+
+Fixed:
+- misplaced comment that was breaking a wagtailimages template
+
 ## v3.9.1
 |||
 |-|-|
