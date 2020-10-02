@@ -1,5 +1,16 @@
 # Janis Changelog
 
+## v3.9.3
+|||
+|-|-|
+| **Date** | 10/02/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/868 |
+| **Latest Commit Hash** | 01afca424bdf74efd42cd360dec6561650ec6b1f |
+| **Stable?**  | y |
+
+Fixed:
+- Home Page "View all Events" button: [#5023](https://github.com/cityofaustin/techstack/issues/5023)
+
 ## v3.9.2
 |||
 |-|-|
