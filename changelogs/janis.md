@@ -1,5 +1,20 @@
 # Janis Changelog
 
+## v3.10.0
+|||
+|-|-|
+| **Date** | 10/13/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/879 |
+| **Latest Commit Hash** | 01afca424bdf74efd42cd360dec6561650ec6b1f |
+| **Stable?**  | y |
+
+Added:
+- Query for content manageable homepage
+
+Fixed: 
+- Issue with site build process ending before promises have resolved
+- Error message in build process when loading style cannot be found
+
 ## v3.9.3
 |||
 |-|-|
