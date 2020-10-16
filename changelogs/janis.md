@@ -1,5 +1,18 @@
 # Janis Changelog
 
+
+## v3.10.1
+|||
+|-|-|
+| **Date** | 10/15/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/881 |
+| **Latest Commit Hash** | 01afca424bdf74efd42cd360dec6561650ec6b1f |
+| **Stable?**  | y |
+
+Added:
+- Dates on Official Documents [#4772](https://github.com/cityofaustin/techstack/issues/4772)
+- Body on Official Documents [#4787](https://github.com/cityofaustin/techstack/issues/4787)
+
 ## v3.10.0
 |||
 |-|-|
