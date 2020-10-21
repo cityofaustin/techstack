@@ -1,5 +1,16 @@
 # Janis Changelog
 
+## v3.10.2
+|||
+|-|-|
+| **Date** | 10/21/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/885 |
+| **Latest Commit Hash** | 0862f70055dee6d8ebed6d77c7c27400e212a68a |
+| **Stable?**  | y |
+
+Added:
+- Official doc collection: display total number of documents: [#4847](https://github.com/cityofaustin/techstack/issues/4847)
+- Change microcopy on topic pages: [#4671](https://github.com/cityofaustin/techstack/issues/4671)
 
 ## v3.10.1
 |||
