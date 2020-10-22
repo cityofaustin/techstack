@@ -1,6 +1,18 @@
 # Joplin Changelog
 
 
+## v3.11.0
+|||
+|-|-|
+| **Date** | 10/21/2020   |
+| **PR link**  | https://github.com/cityofaustin/joplin/pull/831 |
+| **Latest Commit Hash** | 330ace40e2420964387cd5ee6496767814e4005a |
+| **Stable?**  | y|
+
+Added:
+- Secure Grapqhl Endpoint [#4129](https://github.com/cityofaustin/techstack/issues/4129)
+- Joplin graphql preview endpoint [#4769](https://github.com/cityofaustin/techstack/issues/4769)
+
 ## v3.10.0
 |||
 |-|-|
