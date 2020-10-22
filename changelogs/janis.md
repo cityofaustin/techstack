@@ -1,5 +1,16 @@
 # Janis Changelog
 
+## v3.11.0
+|||
+|-|-|
+| **Date** | 10/21/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/888 |
+| **Latest Commit Hash** | 0862f70055dee6d8ebed6d77c7c27400e212a68a |
+| **Stable?**  | y |
+
+Added:
+- Send user name and password to authenticate graphql requests [#4763](https://github.com/cityofaustin/techstack/issues/4763)
+
 ## v3.10.2
 |||
 |-|-|
