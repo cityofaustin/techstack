@@ -1,5 +1,15 @@
 # Joplin Changelog
 
+## v3.12.0
+|||
+|-|-|
+| **Date** | 10/23/2020 |
+| **PR link**  | [Production branch deleted during rebase; recreated from a fork from master] |
+| **Latest Commit Hash** | 73a6ae44b3f54c82e9cad4ced375003966bdb3b8 |
+| **Stable?**  | y |
+
+Added:
+- Live API keyword search for SearchPage and Official Document Collections [#5052](https://github.com/cityofaustin/techstack/issues/5052)
 
 ## v3.11.0
 |||
