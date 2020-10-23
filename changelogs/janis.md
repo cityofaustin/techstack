@@ -1,5 +1,18 @@
 # Janis Changelog
 
+## v3.12.0
+|||
+|-|-|
+| **Date** | 10/23/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/889 |
+| **Latest Commit Hash** | ea39580ac7d8ebb4029f46d3dec91f090a77c570 |
+| **Stable?**  | y |
+
+Added:
+- Date filtering on Official Document Collections [#4849](https://github.com/cityofaustin/techstack/issues/4849)
+- Live API keyword search for SearchPage and Official Document Collections [#5052](https://github.com/cityofaustin/techstack/issues/5052)
+- A single scripts/start.sh to handle all react-static builds for all environments
+
 ## v3.11.0
 |||
 |-|-|
