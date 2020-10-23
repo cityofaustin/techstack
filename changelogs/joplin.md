@@ -1,5 +1,16 @@
 # Joplin Changelog
 
+## v3.12.1
+|||
+|-|-|
+| **Date** | 10/23/2020 |
+| **PR link**  | [yolo] |
+| **Latest Commit Hash** | f9a94be664861d48e9694e863781f1584590ec12 |
+| **Stable?**  | y |
+
+Added:
+- preserve date ordering for OfficialDocumentCollection page search
+
 ## v3.12.0
 |||
 |-|-|
