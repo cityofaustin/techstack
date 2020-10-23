@@ -1,5 +1,16 @@
 # Janis Changelog
 
+## v3.12.1
+|||
+|-|-|
+| **Date** | 10/23/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/890 |
+| **Latest Commit Hash** | 565c0270bcf80c88c4aff36ab4db1b5700a901a5 |
+| **Stable?**  | y |
+
+Changed:
+- Made batchSize smaller for production, an attempt to prevent timeouts.
+
 ## v3.12.0
 |||
 |-|-|
