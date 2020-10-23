@@ -1,5 +1,16 @@
 # Janis Changelog
 
+## v3.12.2
+|||
+|-|-|
+| **Date** | 10/23/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/892 |
+| **Latest Commit Hash** | 54b2824d87db3a2e1efd35eec07236cafea31fdb |
+| **Stable?**  | y |
+
+Changed:
+- fix hardcoded CMS_API url on SearchPage
+
 ## v3.12.1
 |||
 |-|-|
