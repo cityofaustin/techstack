@@ -1,5 +1,16 @@
 # Janis Changelog
 
+## v3.12.3
+|||
+|-|-|
+| **Date** | 10/27/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/892 |
+| **Latest Commit Hash** | 54b2824d87db3a2e1efd35eec07236cafea31fdb |
+| **Stable?**  | y |
+
+Changed:
+- fix hardcoded CMS_API url on SearchPage
+
 ## v3.12.2
 |||
 |-|-|
@@ -15,12 +26,12 @@ Changed:
 |||
 |-|-|
 | **Date** | 10/23/2020   |
-| **PR link**  | https://github.com/cityofaustin/janis/pull/890 |
-| **Latest Commit Hash** | 565c0270bcf80c88c4aff36ab4db1b5700a901a5 |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/894 |
+| **Latest Commit Hash** | 7a0b81cdf8f89e8aee3296c5e4e441de2cd39d90 |
 | **Stable?**  | y |
 
-Changed:
-- Made batchSize smaller for production, an attempt to prevent timeouts.
+Fixed:
+- Bug where added Events could not compile preventing any build from ocurring.
 
 ## v3.12.0
 |||
