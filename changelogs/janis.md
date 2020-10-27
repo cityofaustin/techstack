@@ -4,12 +4,12 @@
 |||
 |-|-|
 | **Date** | 10/27/2020   |
-| **PR link**  | https://github.com/cityofaustin/janis/pull/892 |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/894 |
 | **Latest Commit Hash** | 54b2824d87db3a2e1efd35eec07236cafea31fdb |
 | **Stable?**  | y |
 
-Changed:
-- fix hardcoded CMS_API url on SearchPage
+Fixed:
+- Fixed a bug where Events were not compiling and preventing any builds from completing
 
 ## v3.12.2
 |||
