@@ -1,5 +1,16 @@
 # Joplin Changelog
 
+## v3.12.2
+|||
+|-|-|
+| **Date** | 11/02/2020 |
+| **PR link**  |  https://github.com/cityofaustin/joplin/pull/832 |
+| **Latest Commit Hash** | 235540325dca74db59586d3ff784b07f1d478f30 |
+| **Stable?**  | y |
+
+Removed:
+- Importer tests [#4907](https://github.com/cityofaustin/techstack/issues/4097)
+
 ## v3.12.1
 |||
 |-|-|
