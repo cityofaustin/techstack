@@ -1,5 +1,18 @@
 # Janis Changelog
 
+
+## v3.12.4
+|||
+|-|-|
+| **Date** | 11/06/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/896 |
+| **Latest Commit Hash** | 54b2824d87db3a2e1efd35eec07236cafea31fdb |
+| **Stable?**  | y |
+
+Fixed:
+- Fixed a bug where a missing trailing slash on facebook links would crash the site [#5012](https://github.com/cityofaustin/techstack/issues/5012)
+
+
 ## v3.12.3
 |||
 |-|-|
