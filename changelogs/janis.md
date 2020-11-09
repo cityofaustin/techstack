@@ -1,5 +1,15 @@
 # Janis Changelog
 
+## v3.12.5
+|||
+|-|-|
+| **Date** | 11/9/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/897 |
+| **Latest Commit Hash** |a154193ee354b530d44290f0efb7d38aedea1564 |
+| **Stable?**  | y |
+
+Fixed:
+- All external (outbound links) need a trailing icon [#4874](https://github.com/cityofaustin/techstack/issues/4874)
 
 ## v3.12.4
 |||
