@@ -1,5 +1,18 @@
 # Janis Changelog
 
+
+## v3.13.0
+|||
+|-|-|
+| **Date** | 11/17/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/899 |
+| **Latest Commit Hash** |a154193ee354b530d44290f0efb7d38aedea1564 |
+| **Stable?**  | y |
+
+Added:
+- Virtual events [#4951](https://github.com/cityofaustin/techstack/issues/4951)
+
+
 ## v3.12.5
 |||
 |-|-|
