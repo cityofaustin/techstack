@@ -1,5 +1,17 @@
 # Joplin Changelog
 
+
+## v3.13.0
+|||
+|-|-|
+| **Date** | 11/17/2020 |
+| **PR link**  |  https://github.com/cityofaustin/joplin/pull/841 |
+| **Latest Commit Hash** |ee25523ce236645a5c74288b011abc984d80b6b5 |
+| **Stable?**  | y |
+
+Added:
+- Virtual Events [#4940](https://github.com/cityofaustin/techstack/issues/4940)
+
 ## v3.12.3
 |||
 |-|-|
