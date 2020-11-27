@@ -1,6 +1,17 @@
 # Joplin Changelog
 
 
+## v3.13.1
+|||
+|-|-|
+| **Date** | 11/25/2020 |
+| **PR link**  |  https://github.com/cityofaustin/joplin/pull/843 |
+| **Latest Commit Hash** |d646d5183c6053726b1bb512b363030af5aaeb9a |
+| **Stable?**  | y |
+
+Fixed:
+- Summary limit breaking builds [#5070](https://github.com/cityofaustin/techstack/issues/5070)
+
 ## v3.13.0
 |||
 |-|-|
