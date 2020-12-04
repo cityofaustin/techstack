@@ -1,6 +1,18 @@
 # Joplin Changelog
 
 
+## v3.13.2
+|||
+|-|-|
+| **Date** | 12/04/2020 |
+| **PR link**  |  https://github.com/cityofaustin/joplin/pull/845 |
+| **Latest Commit Hash** |fac282a5e0dd05ae30584c38845f465157cb20c9 |
+| **Stable?**  | y |
+
+Changed:
+- Updated pdf text extraction script [#5066](https://github.com/cityofaustin/techstack/issues/5066)
+
+
 ## v3.13.1
 |||
 |-|-|
