@@ -4,6 +4,18 @@
 ## v3.13.1
 |||
 |-|-|
+| **Date** | 12/10/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/904 |
+| **Latest Commit Hash** |d5da00f6bcf90cc3ac424d145b99cb72913e5610 |
+| **Stable?**  | y |
+
+Updated:
+- Alert styling [#4954](https://github.com/cityofaustin/techstack/issues/4954)
+
+
+## v3.13.1
+|||
+|-|-|
 | **Date** | 11/24/2020   |
 | **PR link**  | https://github.com/cityofaustin/janis/pull/901 |
 | **Latest Commit Hash** |a154193ee354b530d44290f0efb7d38aedea1564 |
