@@ -1,7 +1,17 @@
 # Janis Changelog
 
+## v3.13.3
+|||
+|-|-|
+| **Date** | 12/13/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/907 |
+| **Latest Commit Hash** |d5da00f6bcf90cc3ac424d145b99cb72913e5610 |
+| **Stable?**  | y |
 
-## v3.13.1
+Updated:
+- Added TawkTo chatbot on municipal court pages [#5081](https://github.com/cityofaustin/techstack/issues/5081)
+
+## v3.13.2
 |||
 |-|-|
 | **Date** | 12/10/2020   |
