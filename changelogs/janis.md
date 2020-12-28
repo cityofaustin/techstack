@@ -1,5 +1,17 @@
 # Janis Changelog
 
+
+## v3.14.0
+|||
+|-|-|
+| **Date** | 12/28/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/910 |
+| **Latest Commit Hash** |a1c69217ba5ee5d8cb40d62e1c051b110d5c34a3 |
+| **Stable?**  | y |
+
+Changed:
+- Locations on Events search results [#5054](https://github.com/cityofaustin/techstack/issues/5054)
+
 ## v3.13.3
 |||
 |-|-|
