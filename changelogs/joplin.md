@@ -1,6 +1,18 @@
 # Joplin Changelog
 
 
+
+## v3.14.0
+|||
+|-|-|
+| **Date** | 12/28/2020 |
+| **PR link**  |  https://github.com/cityofaustin/joplin/pull/848 |
+| **Latest Commit Hash** |da54baafa30990d1f17a71fbacbd5ab1a1541873 |
+| **Stable?**  | y |
+
+Changed:
+- Event locations variable names in search results [#5054](https://github.com/cityofaustin/techstack/issues/5054)
+
 ## v3.13.2
 |||
 |-|-|
