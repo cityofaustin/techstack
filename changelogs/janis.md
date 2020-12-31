@@ -1,6 +1,18 @@
 # Janis Changelog
 
 
+## v3.14.1
+|||
+|-|-|
+| **Date** | 12/31/2020   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/912 |
+| **Latest Commit Hash** |a1c69217ba5ee5d8cb40d62e1c051b110d5c34a3 |
+| **Stable?**  | y |
+
+Fixed:
+- Official Document Collection and Page previews crashing [#5084](https://github.com/cityofaustin/techstack/issues/5084)
+
+
 ## v3.14.0
 |||
 |-|-|
