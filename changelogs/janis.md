@@ -1,6 +1,21 @@
 # Janis Changelog
 
 
+## v3.14.2
+|||
+|-|-|
+| **Date** | 1/6/2021   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/915 |
+| **Latest Commit Hash** |a1c69217ba5ee5d8cb40d62e1c051b110d5c34a3 |
+| **Stable?**  | y |
+
+Fixed:
+- PDF size on official document results [#5075](https://github.com/cityofaustin/techstack/issues/5075)
+
+Changed:
+- Updated secondary color [#4703](https://github.com/cityofaustin/techstack/issues/4703)
+
+
 ## v3.14.1
 |||
 |-|-|
