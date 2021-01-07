@@ -1,6 +1,18 @@
 # Janis Changelog
 
 
+## v3.14.3
+|||
+|-|-|
+| **Date** | 1/7/2021   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/917 |
+| **Latest Commit Hash** |a1c69217ba5ee5d8cb40d62e1c051b110d5c34a3 |
+| **Stable?**  | y |
+
+Updated:
+Axios package, based on dependabot recommendation
+
+
 ## v3.14.2
 |||
 |-|-|
