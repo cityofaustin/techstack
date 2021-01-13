@@ -5,6 +5,17 @@
 |||
 |-|-|
 | **Date** | 1/7/2021   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/919 |
+| **Latest Commit Hash** | 75402d492a546d4d54b3f9b7488e24f61ed1ce0d |
+| **Stable?**  | y |
+
+Fixed:
+- Trashy app missing bullet points and translations [#5085](https://github.com/cityofaustin/techstack/issues/5085)
+
+## v3.14.3
+|||
+|-|-|
+| **Date** | 1/7/2021   |
 | **PR link**  | https://github.com/cityofaustin/janis/pull/917 |
 | **Latest Commit Hash** |a1c69217ba5ee5d8cb40d62e1c051b110d5c34a3 |
 | **Stable?**  | y |
