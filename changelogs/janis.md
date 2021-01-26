@@ -1,10 +1,24 @@
 # Janis Changelog
 
 
-## v3.14.3
+## v3.14.5
 |||
 |-|-|
-| **Date** | 1/7/2021   |
+| **Date** | 1/25/2021   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/924 |
+| **Latest Commit Hash** | 07b26ea6671d6a0c6ae0cdd973402e93cf518799 |
+| **Stable?**  | y |
+
+Fixed:
+- Information page contacts missing social media [#5087](https://github.com/cityofaustin/techstack/issues/5087)
+
+Added:
+- sitemap [#4584](https://github.com/cityofaustin/techstack/issues/4584)
+
+## v3.14.4
+|||
+|-|-|
+| **Date** | 1/13/2021   |
 | **PR link**  | https://github.com/cityofaustin/janis/pull/919 |
 | **Latest Commit Hash** | 75402d492a546d4d54b3f9b7488e24f61ed1ce0d |
 | **Stable?**  | y |
