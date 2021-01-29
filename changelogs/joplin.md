@@ -1,6 +1,16 @@
 # Joplin Changelog
 
 
+## v3.14.1
+|||
+|-|-|
+| **Date** | 1/29/2021 |
+| **PR link**  |  https://github.com/cityofaustin/joplin/pull/851 |
+| **Latest Commit Hash** | 2a87b2ddf81f65237bd2afe5a9d0e6a29ba9a9a1 |
+| **Stable?**  | y |
+
+Added:
+- Official Document Pages Rich Text Fields can bold content [#5089](https://github.com/cityofaustin/techstack/issues/5089)
 
 ## v3.14.0
 |||
