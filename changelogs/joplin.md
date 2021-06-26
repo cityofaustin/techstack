@@ -1,5 +1,15 @@
 # Joplin Changelog
 
+## v3.14.2
+|||
+|-|-|
+| **Date** | 6/24/2021 |
+| **PR link**  |  https://github.com/cityofaustin/joplin/pull/858 |
+| **Latest Commit Hash** | 1dc528990b4755a2e2e0182e8aa83c7b67b192b1 |
+| **Stable?**  | y |
+
+Added:
+- Top Services increased to 5 on Department Pages
 
 ## v3.14.1
 |||
