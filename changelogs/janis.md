@@ -4,6 +4,17 @@
 ## v3.14.5
 |||
 |-|-|
+| **Date** | 1/27/2021   |
+| **PR link**  | https://github.com/cityofaustin/janis/pull/938 |
+| **Latest Commit Hash** | -- |
+| **Stable?**  | y |
+
+Changed:
+- Title for Annual Report
+
+## v3.14.5
+|||
+|-|-|
 | **Date** | 1/25/2021   |
 | **PR link**  | https://github.com/cityofaustin/janis/pull/924 |
 | **Latest Commit Hash** | 07b26ea6671d6a0c6ae0cdd973402e93cf518799 |
